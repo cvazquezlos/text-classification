@@ -1,0 +1,23 @@
+Nuestra Real Academia de la Lengua Española recoge dentro de los significados del término «cuadratura» la acepción usada para indicar la «imposibilidad de algo». Sin duda alguna, la cuadratura del círculo es el problema matemático más famoso de todos los tiempos, pero no el único. De hecho, los griegos plantearon otros dos problemas insondables y enigmáticos: la trisección del ángulo y la duplicación del cubo.
+
+Los matemáticos helenos añadieron la apostilla de que estos tres problemas se debían resolver exclusivamente con la ayuda de una regla y un compás. Esta limitación se debió a que estos instrumentos tenían un carácter divino. Es preciso aclarar que la regla no estaba metrizada, por lo que con ella no se podía medir, únicamente se utilizaba para trazar rectas.
+
+El primer problema que germinó en la mente de los inquietos geómetras fue dividir un ángulo cualquiera en tres partes iguales. La trisección del ángulo recto no planteaba para ellos ningún problema, pero sí la de un ángulo arbitrario. A esta cuestión se añadieron, con el paso del tiempo, otras dos: dividir cualquier ángulo dado en un número cualquiera de partes iguales e inscribir un polígono regular de cualquier número de lados en un círculo.
+
+Ya estaba en un papiro egipcio
+Aunque muchos piensan que el origen del problema de la cuadratura del círculo es heleno, tiene su origen mucho antes. Concretamente en el papiro de Rhind (1650 a.C), que trataba sobre el cálculo del número pi. En este papiro se puede leer el siguiente enunciado:
+
+«Dado un círculo de radio r, construir utilizando únicamente regla (sin marcas) y compás, el lado de un cuadrado cuya área sea igual al área del círculo dado»
+Tiempo después, Anaxágoras, un filósofo que vivió en el siglo V antes de Cristo, intentó resolverlo casi por aburrimiento. Nació en Jonia, en la costa centro-occidental de la actual Turquía y su manera de pensar fue verdaderamente revolucionaria para la época, hasta el punto de que fue llevado a prisión por los ciudadanos atenienses, cansados de oírle afirmar que el sol no era una deidad, sino una enorme piedra calentada al rojo. Durante su encierro, Anaxágoras intentó por vez primera «cuadrar el círculo».
+
+Un problema divino
+Anaxágoras falleció sin resolverlo en el 428 a.C. La muerte del estratega se produjo a consecuencia de una terrible peste que asoló el Ática desde el 430 hasta el 426 a.C. De hecho, Tucídides en su «Historia de la guerra del Peloponeso» llegó a escribir: «Jamás se vio en parte alguna azote semejante y víctimas tan numerosas; los médicos nada podían hacer».
+
+Era tal la impotencia, que una delegación de atenienses se dirigió al oráculo de Delos para preguntar al dios Apolo cómo se podía poner fin a la plaga. El oráculo, tan dado a los equívocos y a los galimatías, respondió que se debería doblar en volumen el altar dedicado a Apolo, que tenía la forma de un cubo, lo que dio lugar a un nuevo enigma.
+
+Los atenienses multiplicaron por dos las dimensiones del altar, pero esto incrementó ocho veces su volumen, no lo duplicó. Al parecer, Apolo no quedó nada contento con aquella chapuza matemática y, dado que el problema délico seguía sin resolverse, la peste continuó diezmando la población.
+
+Se podían resolver… pero de otra forma
+En este momento sabemos que los tres problemas, tal y como se plantearon en la antigüedad, son irresolubles, ya que exigen ecuaciones cúbicas, que son imposibles de plasmar con regla y compás.
+
+En 1882 el matemático teutón Ferdinand Lindemann demostró que no se podían resolver debido a que el número pi es trascedente. Es decir, que no se puede obtener como solución de una ecuación que contenga, números positivos, negativos o fracciones –lo que se conoce como números racionales-.

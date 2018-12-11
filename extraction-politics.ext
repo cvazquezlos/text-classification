@@ -1,0 +1,642 @@
+##EXTRACTION FILE (Version: 1.3). DON'T EDIT##
+##FILES##
+#ID_FILE;PATH;TITLE
+0	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\01.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\01.txt
+1	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\02.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\02.txt
+2	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\03.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\03.txt
+3	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\04.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\04.txt
+4	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\05.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\05.txt
+5	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\06.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\06.txt
+6	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\07.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\07.txt
+7	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\08.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\08.txt
+8	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\09.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\09.txt
+9	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\10.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\10.txt
+10	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\11.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\11.txt
+11	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\12.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\12.txt
+12	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\13.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\13.txt
+13	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\14.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\14.txt
+14	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\15.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\15.txt
+15	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\16.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\16.txt
+16	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\17.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\17.txt
+17	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\18.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\18.txt
+18	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\19.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\19.txt
+19	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\20.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\20.txt
+20	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\21.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\21.txt
+21	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\22.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\22.txt
+22	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\23.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\23.txt
+23	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\24.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\24.txt
+24	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\25.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\25.txt
+25	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\26.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\26.txt
+26	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\27.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\27.txt
+27	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\28.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\28.txt
+28	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\29.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\29.txt
+29	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\30.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\politics\30.txt
+##END_FILES##
+##CONTEXTS##
+#ID_CONTEXT;ID_FILE;CONTEXT
+0	0	Solo 166 británicos solicitaron la nacionalidad española en los diez primeros meses de este año, según datos de la Dirección General del Registro y el Notariado.
+1	0	Es una cifra escasa, si se compara con los 10.067 marroquíes o los 2.001 venezolanos, pero más que triplica los 50 solicitantes de 2015, el año anterior al referéndum del Brexit, y convierte a los británicos en los cuartos ciudadanos comunitarios, tras rumanos, italianos y búlgaros, que más quieren ser españoles.
+2	0	(lo que implica llevar una década viviendo legalmente en España)
+3	0	han caído drásticamente entre los ciudadanos comunitarios.
+4	0	Si en 2015 fueron 4.948, en 2017 se redujeron a solo 1.687, menos de la mitad.
+5	0	Estos datos no son exhaustivos, advierte la Dirección General del Registro y el Notariado, ya que solo incluyen los expedientes iniciados con el antiguo procedimiento 
+6	0	(antes de noviembre de 2015)
+7	0	y los presentados posteriormente por vía electrónica, pero no las solicitudes presenciales.
+8	0	y prepara un plan de choque para ponerse al día.
+9	0	si en 2015 la británica era la séptima nacionalidad en número de solicitudes, empatada con la alemana, este año es la cuarta y la única de la UE que crece respecto a hace tres años.
+10	0	España es el país de la Unión donde más británicos residen, unos 250.000, aunque la cifra se ha reducido drásticamente respecto a hace un lustro, cuando se contabilizaban casi 400.000.
+11	0	Tan espectacular reducción se atribuye tanto a la caída del valor de la libra, que ha recortado el poder adquisitivo de los pensionistas residentes en España, como a la depuración de las estadísticas.
+12	0	Aún así, la incertidumbre pesa sobre el futuro de la colonia británica en España, sobre todo si el acuerdo de salida de la UE entre el Gobierno de Theresa May y la UE no es ratificado por el Parlamento británico y el 30 de marzo del año próximo se produce un Brexit sin anestesia.
+13	0	La primera consecuencia del divorcio entre la UE y el Reino Unido es que los ciudadanos británicos perderán la condición de comunitarios y, en consecuencia, no podrán votar en las elecciones europeas y municipales del 26 de mayo de 2019.
+14	0	(19 en la Comunidad Valenciana, ocho en Andalucía y el resto en Canarias, Baleares, Cataluña, Castilla y León, Castilla-La Mancha y Murcia)
+15	0	Representan el 43,5% de los extranjeros elegidos en las municipales de 2015, según datos recopilados por Ciudadanos, que ha pedido la adopción de medidas urgentes para garantizar que no pierden sus derechos políticos.
+16	0	Más importancia tiene para los británicos conservar otros derechos, como los de residencia, trabajo o asistencia sanitaria.
+17	0	Aunque todos ellos están protegidos en el acuerdo de retirada, siempre que este no acabe naufragando, la única forma de garantizar por completo todos los derechos asociados a la ciudadanía europea es adquirir la nacionalidad de un país comunitario.
+18	0	España admite la doble nacionalidad con los países latinoamericanos y con otros con especial vinculación histórica, como Guinea Ecuatorial o Filipinas, además de Andorra y Portugal, pero no con el Reino Unido.
+19	1	Según informa la prensa, con unanimidad no desmentida por nadie, el president, Quim Torra, en Bruselas, en la presentación del Consell per la Republica, ha dicho que “los eslovenos decidieron autodeterminarse y tirar hacia adelante en el camino de la libertad con todas su consecuencias.
+20	1	Hagamos como ellos y estemos dispuestos a todo para vivir libres”.
+21	1	Es una vieja idealización del caso esloveno, aparecida ya antes en el independentismo catalán, y que, en efecto, transcurrido ya algún tiempo desde el momento culminante del procés en septiembre-octubre de 2017, pudo ser el modelo en el que pensaron, sobre todo en la extraña declaración de independencia con suspensión inmediata de sus efectos.
+22	1	No es ocioso, por tanto, reflexionar sobre las similitudes y diferencias entre el caso esloveno y el catalán.
+23	1	Era, recordemos, 1990-1991, en el contexto de la guerra del Golfo, la caída del muro de Berlín y la descomposición del bloque soviético, con previsible e inminente derrumbamiento de la URSS.
+24	1	También se veía muy achacosa Yugoslavia, una rara amalgama política creada después de la Primera Guerra Mundial y mantenida unida tras la Segunda bajo la mano firme del mariscal Josif Broz Tito, que había logrado rodearse de una imagen aceptable en Occidente, pretendiendo encabezar un socialismo autogestionario, aunque, en realidad, era un dictador como cualquier otro y Occidente le apoyaba por su rivalidad con Stalin.
+25	1	En cualquier caso, Tito había muerto en 1980.
+26	1	El proceso esloveno se inició en septiembre de 1989, cuando su Parlamento aprobó una nueva Constitución para la república, en un clima de alta emocionalidad y fervorosos cantos del himno nacional.
+27	1	La Constitución se asemejaba a la bávara, pero con importantes diferencias, como la negativa a reconocer la preeminencia de las leyes federales sobre las eslovenas y la consagración del derecho a no contribuir a las cargas fiscales colectivas de la federación yugoslava.
+28	1	Durante los meses siguientes, el Parlamento siguió aprobando la legislación de un nuevo Estado independiente y reforzando, sobre todo, las unidades de Defensa Territorial, unas fuerzas militares existentes en cada uno de los Estados de la Federación Yugoslava, controladas y financiadas por ellos mismos.
+29	1	Estas unidades, compuestas por unos 20.000 hombres, recibieron armas del mercado ilegal internacional, muy activo en todo el este europeo ante la crisis de la URSS.
+30	1	Pese a que la intención desafiante era clara, el Tribunal Constitucional yugoslavo decidió no actuar, alegando que la independencia eslovena no había sido declarada y que, por tanto, no se podía pronunciar sobre algo no acontecido.
+31	1	Esta decisión fue propuesta por un magistrado esloveno que presidía, por rotación, pero los demás, sorprendentemente, le apoyaron.
+32	1	Parece que los mecanismos montados por Tito poseían un automatismo paralizador, y que solo funcionaron mientras él tomaba las decisiones.
+33	1	Ni siquiera la propia Liga de Comunistas de Yugoslavia hizo nada por detener la defección eslovena.
+34	1	En diciembre de 1990, el Gobierno esloveno realizó, por fin, un referéndum para la independencia, en el que participó el 93% de la población, del que se pronunció afirmativamente un 95%.
+35	1	La independencia fue, en efecto, declarada a continuación, pero suspendida durante un período de seis meses, pensado para negociar con Belgrado.
+36	1	Transcurridos los seis meses, y sin haber negociado nada, en junio de 1991 se declaró efectiva la independencia.
+37	1	Y comenzó, como era de esperar, la guerra.
+38	1	Algunos de los dirigentes serbios pensaban en simple demostración de fuerza, limitándose a tomar los puestos fronterizos eslovenos, y otros en una operación de castigo en toda regla, conquistando los centros de poder y deteniendo a las autoridades de Liubliana.
+39	1	Milosevic, en definitiva, no se empleó a fondo, en parte porque Eslovenia tenía relativamente poco interés para él y en parte porque estaba negociando con el croata Tudjman sus futuras independencias y el reparto de Bosnia.
+40	2	El Gobierno ha confirmado un claro giro de su discurso frente a los independentistas, una semana después del mal resultado de las elecciones andaluzas.
+41	2	El Ejecutivo ha enviado tres cartas a la Generalitat en las que le reprocha la “dejación de funciones” de los Mossos en los cortes de carreteras del fin de semana y le avisa:
+42	2	si la Generalitat no garantiza la seguridad, Interior enviará a la policía.
+43	2	No sería una aplicación del artículo 155, porque Interior no tomaría el control de los Mossos, pero sí una muestra de desconfianza total.
+44	2	El Ejecutivo quiere evitar una situación descontrolada el 21, cuando celebra en Barcelona el Consejo de Ministros.
+45	2	El Gobierno se enfrenta a la tormenta perfecta en Cataluña.
+46	2	Una semana después del fiasco de las elecciones andaluzas, con sectores del PSOE inquietos ante la posibilidad de que la crisis catalana se lleve por delante sus expectativas electorales, el independentismo ha iniciado una escalada que tiene dos esferas:
+47	2	, que han elevado la presión con cortes durante horas de una vía fundamental como la AP-7, y por otro el president Quim Torra, que exige a los Mossos que no actúen contra ellos y además preconiza la “vía eslovena”, citando un ejemplo de un referéndum de autodeterminación en este país que acabó en una guerra de 10 días con 74 muertos.
+48	2	Por si eso fuera poco, el Gobierno ya ha anunciado, y no hay marcha atrás posible, que el 21 celebrará un Consejo de Ministros en Barcelona que esta escalada de los CDR puede convertir en un auténtico problema de seguridad.
+49	2	La imagen del Ejecutivo teniendo que acceder a Barcelona con helicópteros o con fortísima escolta y sin la confianza plena en la actuación de los Mossos inquieta mucho en La Moncloa.
+50	2	En medio de esta tormenta perfecta, el Ejecutivo decidió pasar a la acción y aumentar la tensión con la Generalitat en una escalada política de consecuencias imprevisibles, puesto que el Ejecutivo no puede resistir muchos meses sin los votos independentistas en el Congreso.
+51	2	El Ejecutivo envió tres cartas muy claras.
+52	2	Una, de la vicepresidenta, Carmen Calvo, a su homólogo, Pere Aragonés, en la que le reprocha que “aparentemente ha existido una dejación de las funciones que tiene atribuidas ese Gobierno, con consecuencias para la seguridad pública”.
+53	2	Además se envió otra del ministro de Fomento, José Luis Ábalos, y una última del de Interior, Fernando Grande-Marlaska, que es la más dura y la más explícita, ya que detalla el artículo de la ley de Cuerpos y Fuerzas de Seguridad del Estado que permitirá al Gobierno enviar a la policía a Cataluña si los Mossos no garantizan la seguridad.
+54	2	Grande-Marlaska recuerda que el artículo 38.2 de esta norma, “prevé los supuestos de actuación de las fuerzas y cuerpos de seguridad del Estado cuando lo estimen oportuno las autoridades estatales”.
+55	2	El Gobierno exige en esta misiva que los Mossos ejerzan “las funciones que legalmente le incumben”.
+56	3	EH Bildu evitará mañana la devolución de los presupuestos del Gobierno vasco de 2019 con su abstención a las enmiendas a la totalidad que han tramitado Elkarrekin Podemos y el PP.
+57	3	La coalición abertzale ha anunciado esta tarde que no ha alcanzado un acuerdo en las negociaciones que mantiene con el Departamento de Hacienda, pero posibilitará que las cuentas públicas sigan su procedimiento hasta el final, previsto para el día 21 de diciembre.
+58	3	La formación independentista, único interlocutor del Gobierno vasco para sacar adelante los presupuestos autonómicos de 2019, ha comunicado que la "oferta final" pesentada por el equipo del consejero Pedro Azpiazu es insuficiente, aunque en el pleno que el Parlamento celebra mañana, que vota las enmiendas a la totalidad, no apoyará la devolución del proyecto económico.
+59	3	Con esta decisión, EH Bildu pretende mantener abierta la negociación con el Gobierno vasco hasta el final de la tramitación presupuestaria.
+60	3	El consejero Azpiazu ha comparecido previamente este lunes ante los medios para dar a conocer la última propuesta de acuerdo trasladada a EH Bildu y que contempla aumentar las pensiones más bajas a través de la Renta de Garantía de Ingresos 
+61	3	hasta los 823 euros al mes en 2020.
+62	3	La cifra se queda por debajo de los 858 euros mensuales desde 2019 que viene exigiendo Bildu en una enmienda parcial para sellar el acuerdo presupuestario.
+63	3	El Gobierno vasco propone una subida en dos años de la RGI para los beneficiarios que son pensionistas con bajos ingresos, de tal manera que pasarían a percibir 783,65 euros mensuales en 2019 y 822,83 euros en 2020, ha precisado Azpiazu.
+64	3	La consejería está dispuesta a fijar una subida general de la RGI del 3,5% en 2019 y de otro 3,5% en 2020, con lo que se incrementaría en 41,6 millones de euros en dos años 
+65	3	El importe de las pensiones es el principal escollo de las negociaciones que mantiene el Ejecutivo con EH Bildu, que en una comparecencia posterior ha calificado de insuficiente la subida que plantea Azpiazu.
+66	3	Las parlamentarias de EH Bildu Maddalen Iriarte y Nerea Kortajarena han asegurado que su formación no "arrojará la toalla" y va a "pelear y trabajar hasta el último minuto" para lograr un acuerdo.
+67	4	Los Reyes de España han difundido ya su tradicional felicitación navideña.
+68	4	Don Felipe y doña Letizia han escogido este año una imagen en la que aparecen con sus hijas, la princesa Leonor y la infanta Sofía, tomada durante el viaje que realizaron a Asturias el 8 de septiembre.
+69	4	Era la primera vez que la heredera visitaba el Principado de manera oficial.
+70	4	La imagen elegida es una en la que aparecen los cuatro posando en los Lagos de Covadonga donde Leonor inauguró un mirador que lleva su nombre.
+71	4	El año pasado la escena elegida fue más formal:
+72	4	una imagen tomada de los Reyes y sus hijas en uno de los balcones del Palacio Real de Madrid durante la fiesta del 12 de octubre.
+73	4	Escoger una imagen de la familia real en Asturias no es casual ya que con ella lo que pretende el palacio de La Zarzuela es significar lo importante que ha sido este año para Leonor, que a sus 13 años ha dado los primeros pasos como heredera.
+74	4	En enero y coincidiendo con el 50 aniversario de su padre recibió el Toisón de Oro y el 31 de octubre pronunció sus primeras palabras leyendo el artículo 1 de la Constitución en un acto al que acudieron los poderes ejecutivo, legislativo y judicial que cerraron filas en la sede central del Instituto Cervantes, en Madrid, en torno a la Constitución y a la Corona en un acto organizado por el Gobierno para conmemorar la aprobación de la Ley Fundamental en el Congreso de los Diputados el 31 de octubre de 1978.
+75	4	Posteriormente, Leonor participó en los actos del 40 aniversario de la Constitución en el Congreso junto a sus padres y abuelos.
+76	4	Por primera vez en muchos años, los reyes eméritos aparecen juntos en una imagen.
+77	4	Con esta foto también se intenta da una imagen de normalidad familiar en un año en el que su matrimonio ha vuelto a estar de nuevo de actualidad.
+78	4	La felicitación está escrita solo en español a diferencia de la de los Reyes.
+79	5	El juzgado de Reus ha cerrado la investigación por los escraches que sufrió la Policía Nacional en el municipio, durante los días previos y posteriores al referéndum declarado ilegal del 1 de octubre, y ha acordado mantener la acusación por delito de odio contra el alcalde Carles Pellicer y contra otros cuatro concejales portavoces de partidos políticos independentistas.
+80	5	La juez instructora resuelve que hay visos de reproche penal en el manifiesto que el PDeCAT, ERC, la CUP y Ara Reus redactaron para forzar a que los hoteleros de Reus no aceptaran prestar alojamiento a agentes de la Policía Nacional destinados en la ciudad.
+81	5	La juez, en cambio, decide archivar las acusaciones contra los responsables de un gimnasio que vetó a los policías e, igualmente, también exime a un grupo de bomberos que, vestidos con el uniforme reglamentario, participaron en concentraciones de protesta contra la policía española.
+82	5	Hacer todo lo que fuere "adecuado y necesario" para lograr que los efectivos de la Policía Nacional abandonasen la ciudad "de manera inmediata".
+83	5	El manifiesto firmado por la mayoría de los grupos con representación en el consistorio reusense trataba de persuadir a los responsables de establecimientos hoteleros para que vetasen a los contingentes de refuerzo de la policía, desplegados aquellos días en Cataluña para impedir la celebración de la consulta independentista.
+84	5	Durante una de las manifestaciones, dos patrullas de Mossos que protegían la entrada al hotel avisaron a los policías nacionales que, visto el cariz que tomaba la protesta, no se veían capaces de poder garantizar su seguridad.
+85	5	Los policías se refugiaron entonces todos juntos en una misma planta y prepararon cascos y escudos por si la turba lograba acceder al hotel.
+86	5	El auto judicial subraya que el documento publicado por el ayuntamiento alentó la presión ciudadana contra la Policía Nacional y los mandos del cuerpo se vieron forzados a adelantar, entre dos y tres días, su marcha de la ciudad.
+87	5	En su declaración ante la juez instructora, Carles Pellicer defendió que el texto buscaba recuperar "la convivencia" tras el clima de tensión y "angustia" que desencadenaron las cargas policiales que se registraron el 1 de octubre en varios municipios –no hubo ninguna en Reus– y que la finalidad no era señalar ni vejar a las fuerzas del orden.
+88	6	El Ayuntamiento de Madrid va a reducir en un 20% el precio de los servicios que se prestan a emprendedores en los seis viveros de empresas, locales donde las compañías y proyectos empresariales de nueva creación reciben ayuda pública para poner en marcha su idea de negocio.
+89	6	Cuando la mayoría de las personas promotoras del proyecto empresarial o la entidad mercantil que acceda a estos servicios sean mujeres, tendrán derecho a una rebaja del 20% del importe.
+90	6	El importe mensual por ocupar un despacho en un vivero o incubadora de empresas es de 7,15 euros por metro cuadrado el primer año, y 9,53 euros por metro cuadrado a partir del decimotercero mes.
+91	6	Si el pleno del Ayuntamiento aprueba la propuesta de Ahora Madrid, la tarifa para empresas con mayoría de mujeres será de 5,72 euros por metro cuadrado el primer año y 7,62 euros a partir de entonces.
+92	6	El Ayuntamiento quiere "promover la iniciativa empresarial de la mujer y la igualdad de género, con la finalidad de contribuir a la creación de empleo y a la integración definitiva de las mujeres, en situación de plena igualdad, en la familia, en la sociedad y en el mundo laboral", señala en una nota el área que dirige García Castaño.
+93	6	La rebaja será indefinida durante el tiempo que dure la prestación del servicio, "siempre y cuando se mantengan las condiciones que han dado lugar a la bonificación", subraya el Ayuntamiento.
+94	6	La propuesta para los Precios Públicos para 2019 incluye sin embargo un aumento del precio para la prestación de servicios en las Factorías Industriales del Ayuntamiento.
+95	6	El importe mensual pasa de 2,69 euros el metro cuadrado a 2,71 euros.
+96	7	Desde la elección de Trump y el triunfo del Brexit hasta la irrupción de Vox en las elecciones andaluzas, da la impresión de que la gente está votando contra las encuestas.
+97	7	Lo que convierte a la política en algo tan inquietante es el hecho de que sea imprevisible cuál será la próxima sorpresa que la ciudadanía está preparando a sus políticos.
+98	7	Nadie sabe con seguridad cómo funciona esa relación entre ciudadanos y políticos, que se ha convertido en una auténtica caja negra de la democracia.
+99	7	Las regularidades de la democracia representativa tal y como la conocemos parecen haberse roto cuando partidos, sindicatos y medios de comunicación han perdido buena parte de su autoridad, en un proceso general de desintermediación que tiene muchos efectos democratizadores, pero que también deja a las personas en una situación de mayor vulnerabilidad.
+100	7	Hace muy poco celebrábamos las posibilidades democratizadoras de las redes sociales y ahora nos damos cuenta de que este nuevo contexto nos convierte en individuos más desprotegidos, tanto desde el punto de vista de lo que pensamos como de lo que sentimos.
+101	7	Toda esta incertidumbre plantea al menos tres desafíos a quienes se ocupan de la interpretación de los asuntos políticos:
+102	7	En el caso concreto de la irrupción de la extrema derecha en el Parlamento de Andalucía las primeras explicaciones, como suele ocurrir, han sido más bien interesadas y decepcionantes.
+103	7	En esta sociedad todos llevábamos dentro un entrenador de fútbol y ahora, además, un politólogo.
+104	7	(partidos, medios, electores, abstencionistas… )
+105	7	delante de su responsabilidad, todo se ha resuelto en la búsqueda de un solo culpable, un único factor que, casualmente, es el que mejor encaja en la particular batalla que libramos cada uno y que también nos exculpa de cualquier responsabilidad.
+106	7	Por supuesto que la invasiva presencia del conflicto catalán en la campaña es uno de los factores explicativos, pero me resisto dar la razón a quienes culpan del desastre a lo que está sucediendo en Cataluña, algo tan simple como afirmar lo contrario y asegurar que es la hipernacionalización de las derechas lo que habría regalado esos escaños a Vox.
+107	7	Seguramente lo que está sucediendo en Cataluña habría tenido menos efecto en las elecciones si los partidos hubieran hablado de los problemas que inciden directamente en la vida de los andaluces.
+108	7	Sugiero una explicación que no he encontrado hasta el momento y que sin dar cuenta de todo debería al menos ser tomada en consideración, una explicación más psicopatológica que ideológica.
+109	7	A veces hay que fijarse menos en lo que dicen los actores políticos y atender más a lo que ponen de manifiesto.
+110	7	Mi idea es que hay un nicho de votantes relativamente numeroso —y que aumenta en tiempos de incertidumbre, cuando el miedo o el simple desconcierto nos convierte en sujetos impredecibles— formado por quienes están especialmente irritados 
+111	7	Es evidente que en Andalucía no hay 400.000 fascistas, sino ese número de personas que han votado al partido que creen representa mejor su hartazgo, aunque no ofrezca ninguna solución a los problemas que pueden estar en el origen de esa ira.
+112	7	Esos votantes conocen el programa de la opción que han elegido todavía menos que los votantes de otros partidos.
+113	7	Este tipo de comportamiento es un caso extremo de la desproporción que existe en las democracias contemporáneas entre el gran poder de movilización negativa y el escaso poder de movilización constructiva, de ese votar en contra, en vez de a favor de algo, que caracteriza la actitud antipolítica de muchos de nuestros conciudadanos.
+114	7	La paradoja consiste en que tenemos que explicar un movimiento político por motivos que están desprovistos de toda lógica política.
+115	7	Pone de manifiesto que el antagonismo entre la política y la antipolítica es más fuerte que el de derecha e izquierda.
+116	7	Actitudes antipolíticas las hay, por cierto, en todo el arco ideológico, aunque en la extrema derecha se concentren especialmente.
+117	7	Es la degradación de nuestra vida política lo que ha alimentado este monstruo.
+118	8	arreando a manifestantes españolistas y polis de toda laya.
+119	8	Qué pena que los mossos del conseller Miquel Buch obstaculicen su benéfica tarea.
+120	8	Qué glorioso el president Quim Torra llamándole al orden, a que depure a quienes aporrearon a los escuadristas.
+121	8	Cataluña no necesita policía.
+122	8	La benemérita actuación de limpieza étnico-política de estos no se limita a los consuetudinarios cortes de autopistas, entrañablemente inaugurados el 3 de octubre de 2017 para celebrar el éxito de aquel estupendo referéndum, sabor Crimea.
+123	8	, a todo disidente o dudoso de la causa nacional, al grito de “la calle es nuestra”.
+124	8	Las sedes de los traidores partidos constitucionalistas han merecido una cincuentena de sus escraches, y los que merecerán si no se corrigen.
+125	8	Honor y gloria a Quim Torra por la parte que le toca, que es toda.
+126	8	Felicidades, porque como el venerable Jordi Pujol, a todo antepone la famiglia, y la complacencia familiar:
+127	8	“Mi hijo vota la CUP, mi hija está en un CDR, mi familia está muy comprometida con el país y estoy muy orgulloso de ello” 
+128	8	Fuera Mossos, fuera Buch, fuera Valls, fuera Esquerra.
+129	8	Larga vida a Torra, el honorable president de los escraches.
+130	8	Y a sufamilia, que tanto y tan acertadamente le inspira y conforta.
+131	9	Historiador José Enrique Ruiz-Domènec 
+132	9	de los maestros de la Escuela de los Annales Georges Duby y Jacques Le Goff, que acercaron la historia a la vida cotidiana.
+133	9	Catalán de adopción, catedrático de la Universidad Autónoma de Barcelona, es ante todo un ciudadano europeo, que ha dado clases durante muchos años en París.
+134	9	Su libro Europa.
+135	9	Las claves de su historia es una referencia y le ha convertido en uno de los sabios de la historia del continente.
+136	9	Es autor de muchos otros ensayos y también desempeña una importante labor de divulgación como editor de National Geographic Historia.
+137	9	Ha publicado este otoño en la editorial Taurus Informe sobre Cataluña.
+138	9	Una historia de rebeldía 
+139	9	, que pretende ser algo más que un libro histórico para convertirse en un auténtico informe, un análisis del pasado que marca el presente.
+140	9	¿Por qué resume Cataluña como la historia de una rebeldía?
+141	9	El libro no es de historia, sino que utiliza la historia para resolver un problema:
+142	9	si lo que está sucediendo en la actualidad tiene o no raíces en el pasado o es una cuestión reciente.
+143	9	“Vigila y cuida de Cataluña, porque es un pueblo difícil”.
+144	9	Al elaborar el relato, emerge una categoría que marca todas las demás:
+145	9	ese espíritu de rebeldía del pueblo catalán, antes incluso de alcanzar su propia identidad política.
+146	9	Es un espíritu de oposición a las decisiones del poder, con independencia de quién lo ostente.
+147	9	En su texto aparece una idea recurrente:
+148	9	el peso que el nacionalismo catalán le otorga al pasado para querer construir su futuro.
+149	9	Todo esto del procés está dominado por una teoría que se llama el “catalanismo político”, que no se entiende sin ese regreso al pasado, esa historización que necesita la alta burguesía y la burguesía barcelonesa de lo que fue Cataluña en diversos momentos de su historia.
+150	9	No tienen muy claro cuál es el momento crucial y lo ven siempre en plural.
+151	9	En Cataluña es muy poderoso, porque de ahí sale el modernismo.
+152	9	Siempre que se hace historia es muy difícil separar el mito de la realidad y siempre se escribe desde el presente.
+153	9	¿Resulta más difícil en el caso catalán?
+154	9	¿Cualquier afirmación que se haga puede tener una carga política insospechada?
+155	9	Lo más difícil cuando haces historia en el caso catalán, y esto me lo han dicho muchos historiadores de todo el espectro, es que el pasado está tan vivo que entra en el debate ciudadano, aunque luego esté distorsionado y medio falsificado.
+156	9	En otros países, la historia ya está superada.
+157	9	Te vas a Inglaterra y nadie discute si eres partidario o detractor de Cromwell, es un hecho del pasado que ya tiene poco que ver con la realidad actual.
+158	9	Mientras, en Cataluña los segadors o el 11 de septiembre de 1714 son sucesos que no solo se rememoran o se recrean, sino que están vivos, al menos se sospecha que están vivos, con el agravante de que no los conocen muy bien y son fácilmente falsificables.
+159	9	¿La visión que se reconstruye es muy diferente de la que arroja la historia?
+160	9	El romanticismo cree en la historia catastrófica.
+161	9	El devenir de la historia concebido como un conjunto de contradicciones no gustaba en la época.
+162	9	Se construye la idea de que en fechas como 1714 se destruye Cataluña por potencias foráneas, principalmente castellanas, y que eso lo que crea es un caldo de cultivo para favorecer este movimiento, que por un lado es de independencia y soberanismo, que no tiene por qué estar mal, pero por otro es un movimiento antiespañol.
+163	9	es un error histórico, porque la mayoría de los catalanes nunca han sido antiespañoles.
+164	9	En esas fechas manipuladas también se puede introducir 1939, cuando en realidad hubo catalanes en los dos bandos en la Guerra Civil… R.
+165	9	Ante la actual catástrofe que se sitúa en 1939, con el franquismo que aplasta Cataluña, hay que decir:
+166	9	cuidado, el franquismo aplasta la democracia en España, pero lo mismo en Cataluña que en Extremadura o en Andalucía.
+167	9	Entonces se recurre a la idea de que sí que existen diferencias, porque nosotros teníamos una identidad que perdimos.
+168	9	También podían ser los movimientos libertarios que existían en Andalucía.
+169	9	No es viable que un país se sacrifique por un individuo, y ahora mismo en Cataluña hay muchos individuos que preferirían sacrificar a un país con tal de que se les dé la razón.
+170	9	Cuando España decide ser España, algo que se produce en el siglo XVIII, Cataluña sabe que ese es su destino.
+171	9	Como historiador de la Edad Media y de Europa, 
+172	9	¿no cree que esa integración es el destino de todas las nacionalidades europeas?
+173	9	hacia que los sentimientos nacionales se mitiguen, porque si no ocurrirá lo que está pasando en los países del Este, donde se está exacerbando un nacionalismo que atentará contra lo que hemos deseado siempre, que en Europa no haya fronteras y que tenga una identidad y una historia propias que acaben con siglos de animadversión.
+174	9	La dirección es buscar un espacio donde los pueblos puedan coexistir, y es fácil coexistir sobre todo en la España actual, no en la España del franquismo.
+175	9	En su libro describe un par de veces los caminos que llevan a una guerra civil.
+176	9	Hace poco un individuo de cuyo nombre no quiero acordarme dijo que el problema del procés es que se necesitaba sangre.
+177	9	El camino, la lógica, desgraciadamente en la historia ha terminado siempre así.
+178	9	Eso sí, puede que no ocurra, puede haber mutaciones en la historia.
+179	9	¿Cuál es el carácter insensato de un movimiento que tiene un tanto por ciento elevado de posibilidades de acabar ahí?
+180	9	Uno de los motivos por los que estamos en el procés es por ignorancia de la historia, por eso el libro es un informe, para recuperar la historia en el debate, pero una veraz, no estas historias fragmentadas, medio inventadas, que terminan en el sainete.
+181	10	Las perforadoras militares comenzaron a penetrar en las rocosas colinas que lindan con Líbano apenas dos días después de que el comisionado general de la policía de Israel, Roni Alsheich, presentara hace una semana, en su último día en el cargo, la tercera acusación por corrupción contra el primer ministro Benjamín Netanyahu.
+182	10	Los zapadores del Ejército se afanan desde entonces en localizar los túneles excavados por la milicia proiraní de Hezbolá bajo la frontera con el código Operación Escudo del Norte, que el Estado Mayor preparaba desde 2014.
+183	10	No pasa un día sin que los portavoces castrenses toquen a rebato para convocar a los periodistas y ofrecer nuevos detalles del operativo, mientras en los medios reverberan los tambores de guerra y los ciudadanos se preguntan si están a las puertas de la tercera guerra en Líbano desde 1982.
+184	10	Analistas políticos y dirigentes de la oposición no ven sin embargo peligro inmediato de escalada bélica, sino una cortina de humo —bautizada con sorna Operación Escudo de Netanyahu— que disimula los escándalos que salpican al veterano jefe de Gobierno conservador.
+185	10	Después de más de 12 años en el cargo, aspira a desbancar a David Ben Gurion, padre fundador del Estado, como mandatario que más tiempo ha ejercido el poder en Israel.
+186	10	“No estamos en una situación en la que nuestros soldados hayan atravesado las líneas enemigas.
+187	10	O le ha entrado miedo o está intentando sembrar el pánico”, ha advertido la líder de la oposición de centroizquierda, Tzipi Livni, que fue ministra de Exteriores durante la guerra librada con Hezbolá en 2006.
+188	10	El Ejército ya había decidido iniciar la operación a comienzos de noviembre y los túneles detectados —dos, por ahora— no estaban aún completados para poder lanzar incursiones contra Israel.
+189	10	Así lo confirmó el jefe del Estado Mayor, general Gadi Eisenkot.
+190	11	El secretario de Organización del PSOE, José Luis Ábalos, acusó este sábado a la derecha española de intentar “blanquear” a Vox y ser tolerante con su “discurso fascista”.
+191	11	El también ministro de Fomento aseguró que PP y Ciudadanos trabajan para cerrar un pacto en Andalucía que incluirá “las barbaridades” que la formación de extrema derecha promulga en su programa.
+192	11	En un acto organizado por los socialistas de Baleares, subrayó que el partido liderado por Santiago Abascal es legal porque la Constitución lo permite y no porque la formación ultra “refleje ningún valor constitucional”.
+193	11	Ábalos también acusó al líder del PP, Pablo Casado, de “engañar a la gente” al afirmar que iniciará unas negociaciones “discretas o secretas” con Ciudadanos para intentar cerrar un pacto de Gobierno para Andalucía y luego estudiará la predisposición de Vox de sumarse al proyecto o abstenerse.
+194	11	“El fascismo nunca aparece tal cual, porque cuando lo hace ya es demasiado tarde”, añadió, después de insistir en que negar los valores promulgados por la Constitución “es negar también la Carta Magna”.
+195	11	El secretario de Organización también se refirió a la última propuesta de Casado de recentralizar las competencias autonómicas, como las de educación o sanidad, y dijo que esta idea implica “atentar contra la labor que hacen las comunidades” y negar a su vez la política social.
+196	11	Durante su intervención, Ábalos se refirió a la llamada del presidente de la Generalitat, Quim Torra, a apostar por la vía eslovena en el camino hacia la independencia.
+197	11	Tachó al dirigente catalán de “iluminado e irresponsable” por apelar a un proceso que dejó numerosos muertos en una situación “que no tiene nada que ver con la de Cataluña”.
+198	11	El socialista también censuró que desde Cataluña se hagan llamamientos “a la insurrección”, al tiempo que calificó de “indecente” plantear la secesión “con vías que no son propias”.
+199	11	Durante su discurso, el ministro también pidió a la Generalitat que deje de proponer “caminos intransitables que juegan con la convivencia de la gente” y que, a su juicio, demuestran que los políticos independentistas tienen “una concepción totalitaria”.
+200	11	Según el socialista, la república a la que apelan “no lo arregla todo” porque “lo que no arregla nunca un régimen político es la incapacidad para gobernar”.
+201	12	Cuando acudíamos a un congreso internacional, los politólogos españoles metíamos en la maleta una respuesta para la inevitable pregunta de nuestros colegas:
+202	12	¿por qué no tenéis ultraderecha en España?
+203	12	Tras una dura crisis económica, sufrís una importante desigualdad.
+204	12	Tras una oleada de casos de corrupción, sois de los europeos que más desconfían de sus políticos.
+205	12	Además, pocas sociedades han recibido más inmigrantes en los últimos 20 años.
+206	12	Si un país “debiera” tener un partido de extrema derecha exitoso es España.
+207	12	Fabricábamos hipótesis de todas las formas y colores.
+208	12	Tras la irrupción de Vox en las elecciones andaluzas, España ha dejado de ser excepcional por la derecha, pero lo sigue siendo por la izquierda.
+209	12	En las democracias liberales hay muchos partidos como Vox, pero pocos como Podemos.
+210	12	La izquierda alternativa en Europa ha sido superada por el nacionalpopulismo gracias a una estrategia errónea.
+211	12	Han insistido durante años en la misma táctica suicida que ahora proponen los dirigentes de Podemos:
+212	12	Manifestaciones, cordones sanitarios, boicoteos a los actos políticos de la derecha populista, y un largo etcétera de acciones reactivas que, como era de esperar, permiten a los líderes de la ultraderecha manejar la agenda política.
+213	12	En todo el continente, tanto la izquierda poscomunista como el resto de partidos tradicionales han desgastado más energías enfrentándose a los dirigentes de extrema derecha que dialogando con sus potenciales votantes.
+214	12	Los nacionalpopulismos, como Vox, son la mitológica hidra de Lerna, la monstruosa serpiente policéfala a la que, si le cortaban una cabeza, le salían dos más.
+215	12	Si les atacamos directamente —acusándolos de fascistas, xenófobos, homófobos o haber lanzado una “cruzada contra las mujeres”— les reforzamos.
+216	12	Así la hidra conquistó Europa.
+217	12	Y ahora ha llegado a España.
+218	13	Esto es, para designar esa potente moda ideológica que arrasó el continente europeo entre el término de la Primera Guerra Mundial y el fin de la Segunda.
+219	13	Por un lado, no creo que se extraiga ningún rendimiento analítico de llamar fascismo a todo lo que no nos gusta o no cumple con los estándares de la democracia liberal.
+220	13	no creía en el gobierno acotado ni en la separación de poderes.
+221	13	Tampoco en el pluralismo político, juzgado como venero de discordia nacional.
+222	13	No creo que el actual brote nacionalpopulista en Europa encaje en ese molde y me impacienta que se use la etiqueta de fascista para describirlo.
+223	13	Todo esto, viene, en efecto, a cuenta de la irrupción de Vox.
+224	13	No es un partido fascista.
+225	13	Y mientras no hagan un llamamiento contra las instituciones del Estado 
+226	13	(es decir, mientras respeten una legalidad que no les gusta)
+227	13	es mejor no usar otros calificativos que los que razonablemente se desprendan de su programa.
+228	13	Pero sobre todo, hay un fuerte nacionalismo español, centralista a machamartillo, lastimero y de impronta casticista.
+229	13	Al igual que en el cielo nocturno, una explosión de energía da lugar a la aparición de una nueva estrella, la irritación desatada por los desafueros del procés independentista ha sido la levadura que ha inflado a Vox.
+230	13	De las decisiones de los partidos 
+231	13	(de la izquierda no menos que de la derecha)
+232	13	depende que el brillo de Vox se apague o no.
+233	13	Mientras tanto, quienes durante décadas han alertado contra el fantasma de la España uniforme que según ellos representaban los idearios del PP y de Ciudadanos, una acusación sin base y repetida con una insistencia tal que parecía encubrir el morboso deseo de que su rival se pareciera al monstruo mitológico de su imaginación, pueden recordar hoy el aforismo atribuido a Santa Teresa según el cual por nada se vierten más lágrimas que por las plegarias que nos son concedidas.
+234	14	Si Carles Puigdemont y Quim Torra siguen empeñados en lograr la aplicación del 155, conseguirán demostrar de nuevo la vigencia operativa de la Constitución.
+235	14	Una constitución refunda el pacto de confianza entre pasado, presente y futuro de un país.
+236	14	Hace unos días, The Washington Postpublicó un extracto de un libro póstumo del columnista Charles Krauthammer.
+237	14	Recuerda como en 1981, al ser asesinado Anwar Sadat, un programa de televisión informó de que, según los expertos consultados, en la constitución egipcia constaba que en aquellas circunstancias el sucesor era el presidente del parlamento.
+238	14	Con escepticismo, un analista de la tumultuosa vida del Oriente Medio sostuvo que en Egipto nadie se había leído la Constitución en treinta años.
+239	14	En realidad, la constitución no parecía existir, ni a nadie le importaba.
+240	14	Pues ese será el próximo presidente”.
+241	14	1978 sirvió para todo lo contrario.
+242	14	Cuando hay quien se queja tanto de la Constitución de 1978 como si fuera un parque jurásico, sería saludable preguntarse qué ha pasado.
+243	14	¿Ha sido un deterioro de la voluntad colectiva que conformó aquel delta histórico o ha cundido una amnesia, de una parte inconsciente y por otra deliberada, que hace irreconocible el sólido encanto de la Constitución cuarenta años después?
+244	14	Hay quien busca arrimarse a alguna forma de constitución bolivariana; otros desacatan la ley para fundar una república catalana independiente.
+245	14	Para hacerse una idea de lo que significa 1978 basta con preguntarse si ahora sería posible redactar una carta magna tan convincente y amplia.
+246	14	Al contrario del mantra pro-reforma de la Constitución para adaptarla a los nuevos tiempos, parece evidente que ahora no sería factible un consenso de magnitudes equiparables a las de entonces, una constatación que por sentido común debiera reconfortarnos por tener un cauce constitucional en el que los pleitos de España habían desembocado en una sabia arquitectura constituyente.
+247	14	Pero uno no cambia una constitución porque la sociedad haya pasado de la minifalda al pantalón vaquero rasgado, ni por la existencia de la familia monoparental o porque reaparezcan los mitos de la Cataluña mirífica.
+248	14	Si en política las soluciones son impuras, una buena Constitución contribuye a filtrar impurezas.
+249	14	Así España entró de lleno en la integración europea, en la Alianza Atlántica y en la globalización.
+250	14	Dio forma al estado autonómico, superó la intentona de Tejero, pasó por la experiencia política de la alternancia en el poder y ha vencido a ETA.
+251	14	¿Cómo se explica la Constitución en las aulas y de qué manera se cuenta la historia de una transición sin buenos ni malos?
+252	14	Krauthammer alude a la sabiduría de los padres de la Constitución americana y a la reverencia que le guardan la mayoría de los ciudadanos estadounidenses, a pesar de todo, a pesar de cambios sociales profundos.
+253	14	La transición democrática en España se hizo con un bajísimo coste, como comprendieron los ciudadanos de Cataluña al votarla masivamente.
+254	14	Con el maremágnum secesionista, el resultado no hubiese sido el mismo pero también es cierto que, en el momento de la desafección de parte de Cataluña, un partido como C’s ha sido el más votado.
+255	14	La mayoría secesionista indestructible no existía.
+256	14	Ante el espectáculo de la descomposición intensa de las alianzas independentistas, el desconcierto de sus votantes y los graves riesgos de inestabilidad y de incertidumbre jurídica no benefician a los imitadores de la intentona secesionista de octubre de 1934.
+257	14	Como formas de arraigo, la Constitución y la monarquía parlamentaria están imponiéndose al unilateralismo.
+258	14	Las zonas sociales de desapego constitucional irán encogiéndose, de modo que la razonabilidad de la ley siga por encima de altibajos de ruptura y sedición.
+259	15	La tregua que Donald Trump y Xi Jinping pactaron durante la cumbre del G20 para su guerra comercial, parece haber sido una ilusión óptica.
+260	15	Con la detención de Meng Wanzhou, la CFO de Huawei, en Vancouver, hace 10 días, el conflicto se agravó.
+261	15	John Bolton, el responsable del Consejo Nacional de Seguridad de Estados Unidos, certificó que no fue un aséptico episodio judicial al revelar que estaba al tanto de la captura antes de que se produjera.
+262	15	A él se atribuye la autoría intelectual del discurso que Mike Pence pronunció el 4 de octubre pasado en el Hudson Institute.
+263	15	Esa pieza retórica, la más dura y sistemática que haya elaborado el Gobierno norteamericano sobre China, corrobora que ese duelo es el eje central de la política exterior de Trump.
+264	15	La geografía principal de esta contradicción es América Latina, donde la presencia de los chinos es cada día más activa.
+265	15	Comercian, financian e invierten, sin las limitaciones que encuentran en Europa.
+266	15	Para descubrir la región, Trump debió pasar antes por Pekín.
+267	15	Fue el almirante Kurt Tidd, jefe, hasta la semana pasada, del Comando Sur del Pentágono.
+268	15	El 15 de febrero, hablando ante el Senado de su país, Tidd dijo que para enfrentar el desafío chino en la región “no alcanza el esfuerzo de todo el Gobierno; hace falta el compromiso privado, en especial de las empresas multinacionales”.
+269	16	Vox dice que va a reconquistar España, pero no lo va a conseguir porque parte de dos errores serios:
+270	16	, es plural y diversa, y por tanto, las ideas, creencias, valores y principios que la caracterizan son tan diferentes como rica esa pluralidad.
+271	16	(patria, unidad nacional, familia tradicional, protección de la vida…)
+272	16	, se lograrán con el regreso a un pasado donde dichas referencias constituían la realidad, pero en verdad solo se trataba de la realidad de “unos pocos”.
+273	16	la referencia de una élite dominante de hombres a través de sus ideas, valores, estatus y creencias en la que sobran las mujeres y las políticas de igualdad que acaban con los privilegios masculinos construidos desde la normalidad.
+274	16	La igualdad actúa sobre el núcleo de poder de la construcción patriarcal que entiende que los hombres por su condición están llamados a ocupar unos determinados espacios y funciones, y que las mujeres, por su condición, deben desempeñar otros roles y tener tiempos y espacios distintos.
+275	16	A partir de esa idea central su estructura social es fácil, y se limita a afirmar que toda aquella persona que tenga una “condición” diferente a la que ellos dan por superior, no solo es diferente, sino que es “diferente e inferior”.
+276	16	las mujeres son “diferentes e inferiores” a los hombres 
+277	16	(lo dijo muy bien el eurodiputado polaco ideológicamente afín a Vox, Janusz Korwin Mikke, al pedir que las mujeres de la Unión Europea cobren menos porque son “más débiles y menos inteligentes que los hombres”)
+278	16	Es el mismo pensamiento que expresaban muchos maltratadores cuando los veía como médico forense.
+279	16	Tomaban su posición de hombres como superior y, por tanto, la opinión de las mujeres como un ataque, no como un criterio diferente o una manera distinta de ver la realidad y abordar las cuestiones que se presentan en ella.
+280	16	La esencia de los planteamientos de Vox necesita algo más que la crítica, por eso se fundamenta en el ataque explícito a la igualdad, puesto que es ella la que desmonta la falacia de su modelo.
+281	16	Por un lado en el plano individual, porque las mujeres con su esfuerzo, trabajo y compromiso han logrado desmontar la idea de la “incapacidad de las mujeres” para asumir determinadas responsabilidades y funciones en la sociedad, argumento que les ha negado las oportunidades a lo largo de la historia “por su propio bien”, puesto que si realizaban dichas tareas podrían sufrir graves consecuencias.
+282	16	Por ello, a diferencia de otros partidos de derechas que plantean algunas políticas cercanas a las suyas, Vox necesita, además, hacer explícito ese ataque a las políticas de igualdad y presentar como “responsables” a quienes ellos llaman “feminazis”.
+283	16	Y hacerlo como si se tratara de una estructura organizada para “atacar a los hombres” y obtener beneficios económicos con todo ello, de ahí que hablen de “ideología de género”.
+284	16	Vox es una manifestación más del machismo existente en nuestra sociedad, un machismo que es cultura, no solo conducta, y que por tanto impregna todos los espacios de la sociedad y la política.
+285	16	Acabar con las expresiones del machismo exige erradicarlo de nuestra cultura, no solo actuar frente a sus consecuencias.
+286	16	Hoy lo que está en juego es la democracia, no el resultado de las próximas elecciones.
+287	17	El día después de que el Gobierno central haya enviado tres cartas a la Generalitat reprochando la “dejación de funciones” de los Mossos en las diferentes acciones de los Comités de la Defensa de la República 
+288	17	este fin de semana, el primer secretario del PSC, Miquel Iceta, ha asegurado que estas misivas son "necesarias" para advertir al Govern de Quim Torra que si no ejerce sus competencias en seguridad, lo hará La Moncloa.
+289	17	"El Gobierno central lo que hace es recordarle a la Generalitat sus obligaciones, y si no lo hace, él lo hará", ha incidido Iceta.
+290	17	Con todo, el líder de los socialistas catalanes descarta que ello suponga una intervención de la autonomía, mediante la aplicación del artículo 155 de la Constitución.
+291	17	Ese artículo está pensado para aquellas situaciones en que hay una rotura de la legalidad".
+292	17	Iceta también ha descartado, por ahora, una intervención de los Mossos y asegura que primero hay que esperar a las explicaciones que dé la Generalitat sobre la falta de actuación de la policía catalana el pasado sábado, después de que los CDR mantuvieran cortada la AP-7 en L'Ampolla 
+293	17	durante 15 horas, o el domingo cuando los activistas levantaron las barreras de media decena de peajes durante tres horas, en plena operación retorno.
+294	17	Iceta se ha mostrado seguro de que hubo una orden política para que los Mossos no actuaran en estas dos protestas, que tuvieron lugar después de las cargas policiales contra protestas de los CDR el jueves en Girona y Terrassa.
+295	17	"Las cargas aconsejaron a la dirección política de los Mossos no actuar", ha considerado Iceta, que ha recordado que tras los sucesos del jueves el propio presidente Quim Torra dio un ultimátum al consejero de Interior, Miquel Buch, para realizar cambios en la cúpula de los Mossos, una orden que este finalmente no ha ejecutado.
+296	17	Mientras tanto, el Gobierno de Pedro Sánchez ya ha amagado con enviar a la policía nacional para garantizar la seguridad con vistas a la celebración del Consejo de Ministros el próximo 21 de diciembre en Barcelona y en previsión de las protestas que están organizando, entre ellas los cortes de las principales carreteras catalanas.
+297	17	"No poder organizarlo sería una noticia nefasta para una ciudad como Barcelona.
+298	18	Europa afronta un 2019 complejo:
+299	18	la salida de Reino Unido de la Unión, elecciones europeas con creciente presencia de formaciones populistas, una desaceleración del crecimiento que coincide con la retirada de estímulos por parte del Banco Central Europeo 
+300	18	es, pese a todo optimista, aunque no ignora los riesgos.
+301	18	“2019 no será un año fácil para Europa”, sostiene el economista jefe para Europa de la agencia de calificación Standard & Poor’s Global Ratings.
+302	18	Tendremos una suave desaceleración del crecimiento europeo, la inflación se aproximará al objetivo, el BCE iniciará el desmantelamiento de la política monetaria, el Gobierno italiano acabará logrando un acuerdo con la UE, habrá un Brexit ordenado.
+303	18	La economía europea es resistente y bajo presión siempre acaban funcionando la política monetaria y la presupuestaria.
+304	18	Pero no será un año fácil.
+305	18	Siempre hablamos de lo que puede suceder a Reino Unido cuando abandone la UE pero no a la inversa.
+306	18	La UE nunca fue diseñada para ser abandonada y eso va a hacer muy difícil deshacer todos los lazos institucionales.
+307	18	Reino Unido es una economía del G7, el primer exportador europeo de servicios financieros y una potencia militar.
+308	18	Y desde ese punto de vista eso supone un debilitamiento de la UE en un mundo que vive un importante enfrentamiento comercial entre dos superpotencias y en un momento en el que Rusia está haciendo su reaparición como potencia global.
+309	18	¿Entrará Europa en recesión por el Brexit?
+310	18	No contemplamos una salida sin acuerdo y, por tanto, no consideramos que el Brexit pueda provocar una crisis sistémica, como ha apuntado a veces el Banco de Inglaterra.
+311	18	Reino Unido será el principal perjudicado por la salida de la UE y eso encarecerá de inmediato su deuda –más la corporativa que la soberana--, el PIB sufrirá una caída acumulada del 2,7% en algo menos de dos años, el paro superará el 7% y, con la depreciación de la libra, la inflación rozará el 5% en la primera mitad de 2019.
+312	18	Será una pesadilla para los ciudadanos y los consumidores británicos, eso seguro.
+313	18	El resto de Europa se resentirá, sin duda, pero serán aquellos países con mayores vínculos con Reino Unido los que más los sufran y, en especial, las economías más pequeñas como Irlanda, Holanda, Noruega, Dinamarca.
+314	18	¿Cómo afecta a sus expectativas la combinación del Brexit con las elecciones europeas?
+315	18	El aumento de los extremismos, tanto a izquierda como a derecha, está sucediendo prácticamente en toda Europa.
+316	18	Los primeros sondeos para las elecciones europeas muestran que los partidos tradicionales perderán entre un 5% y un 6% de sus escaños hacia los extremos, sobre todo hacia la extrema derecha, lo que significa que la fragmentación política de Europa continúa.
+317	18	Y eso en un momento en el que Europa debe estar más unida que nunca no es una tendencia positiva.
+318	18	¿El ejemplo de lo que la fragmentación política puede suponer es Italia?
+319	18	El riesgo de la fragmentación sería de una mayor rigidez de Europa, con dificultades para aprobar nuevas medidas de integración, limitando las capacidades presupuestarias de la Unión e incluso de una menor solidaridad.
+320	18	Si se analiza el caso de Italia, hay un problema de productividad, especialmente si la comparamos con otros grandes países de la UE.
+321	18	Además, el crecimiento italiano no es suficientemente inclusivo con los jóvenes, lo que significa que se produce una trágica destrucción de capital humano que puede estar alimentando a los partidos populistas.
+322	18	Roma, como antes otros, culpa a Bruselas de sus males.
+323	18	Italia tiene un superávit primario tan grande como el de Alemania, del 2% del PIB, por lo que su problema es la incapacidad de la política presupuestaria de impulsar la productividad, de invertir eficientemente y eso es imposible con una carga de intereses que representa el 4% del PIB.
+324	18	¿Podemos esperar entonces un nuevo episodio de crisis soberana en Europa?
+325	18	Italia es uno de los países con mayor inestabilidad política de Europa, donde los cambios de coalición de Gobierno son más habituales así que este Gobierno entrará en dificultades en algún momento.
+326	18	Pero la gran diferencia con la crisis soberana europea de 2012 es que se han puesto en marcha muchos instrumentos por parte de las autoridades europeas.
+327	18	Desde el Banco Central Europeo, con su política de relajación cuantitativa y tipos de interés cero desde hace cuatro o cinco años, al plan Juncker de inversión masiva del que Italia es el principal beneficiario.
+328	18	Así, las pequeñas y medianas empresas italianas están pudiendo contratar gracias a los préstamos que obtienen de los bancos del país respaldados con garantías europeas a través del plan Juncker.
+329	18	Y lo más importante es la ausencia de contagio de la situación italiana.
+330	18	¿Cómo afectará este escenario al rumbo de la política monetaria?
+331	18	El BCE va a tener que abandonar su actual política en algún punto y hacia ahí se dirige pese a que los últimos datos de actividad han sido bastante débiles.
+332	18	Pero ha llegado el momento de dejar atrás la política monetaria ultraexpansiva, entre otras cosas porque la Reserva Federal da una oportunidad para que el BCE normalice en parte las condiciones monetarias.
+333	18	Parte del mercado sigue esperando que el BCE lance una nueva TLTRO pero desde el punto de vista de la autoridad monetaria no hay razones para mantener ese tipo de operaciones.
+334	18	Cuanto antes empiece el BCE a deshacer la política ultraexpansiva, mayor margen de maniobra recupera para estar preparado para la próxima crisis.
+335	18	¿Qué debemos esperar de la guerra comercial que libran dos superpotencias como EE UU y China?
+336	18	Pero tengo la sensación que la verdadera cuestión tras la guerra comercial es la transferencia tecnológica porque si analizamos el impacto directo de los aranceles impuestos por EE UU sobre su déficit comercial es bastante marginal.
+337	18	De momento la apertura económica mundial está en los niveles más altos de la historia.
+338	18	El comercio mundial crecerá un 3,5% este año, en línea con la expansión del PIB, que es lo normal.
+339	19	Nuevos vídeos difundidos este martes muestran que el joven palestino discapacitado abatido de un tiro por la espalda hace una semana en Cisjordania no participaba en disturbios violentos, en contra de lo afirmado por el Ejército israelí.
+340	19	Mohamed Habali, de 22 años, residente con limitaciones psíquicas de un campo de refugiados de Tulkarem, recibió un disparo en la parte posterior de la cabeza a las 2.25 del pasado día 4, durante una operación militar en esa ciudad cisjordana colindante con Israel.
+341	19	Las imágenes aireadas durante el fin de semana por un canal de televisión local mostraban el momento en el que se desploma.
+342	19	Las grabaciones que ha hecho públicas ahora la ONG pacifista israelí B’Tselem describen también los movimientos de las patrullas de los soldados que participan en una operación de registro de viviendas.
+343	19	Los vídeos obtenidos por B’Tselem proceden de cuatro cámaras de seguridad con ángulos distintos.
+344	19	En ningún momento se observa la existencia de altercados entre las tropas, que se despliegan en la oscuridad de la noche, y el grupo de palestinos agrupados en torno a un restaurante abierto de madrugada, en las proximidades del lugar donde cayó malherido el joven discapacitado.
+345	19	En ellas se observa cómo un pelotón integrado por unos 30 soldados se despliega en patrullas por esa misma vía.
+346	19	La cinta muestra a Habali paseando arriba y abajo cuando las fuerzas israelíes se aproximan, mientras los vecinos que están en la calle se dirigen hacia el interior del local de comidas o se retiran del lugar.
+347	20	La Junta de portavoces del Parlament ha dejado en el aire sendas peticiones de Ciudadanos y del PSC para solicitar que el presidente de la Generalitat, Quim Torra, comparezca en el hemiciclo para dar explicaciones sobre su apuesta por la vía eslovena para conseguir la independencia de Cataluña.
+348	20	La Mesa de la Cámara había tramitado la petición pero la Junta ha decidido no incluir esta solicitud en el orden del día del pleno de la próxima semana.
+349	20	Los portavoces de las dos formaciones han lamentado la decisión al sostener que Torra debía dar explicaciones a los diputados.
+350	20	El Pleno sí que votará la semana que viene otra comparecencia del president, a propuesta de los dos partidos citados, para abordar las movilizaciones de los trabajadores públicos.
+351	20	En una comparecencia en la Cámara, Carlos Carrizosa, portavoz de Ciudadanos, ha agregado que habían cursado la petición para que Torra detallara sus declaraciones y la situación de los Mossos d'Esquadra, que no actuaron contra los comités de defensa de la república durante el corte de carreteras del fin de semana.
+352	20	"El separatismo se ha puesto de acuerdo para que no dé explicaciones de algo gravísimo que nos ha conmocionado al aludir a un conflicto bélico", ha afirmado el diputado.
+353	20	Eva Granados, portavoz socialista, ha agregado que habían formulado la misma petición al recordar que Torra apostó por esa vía además de alentar a las movilizaciones.
+354	20	"La mayoría de grupos no han querido apoyarlo.
+355	20	Tenemos un presidente que no le gustan las leyes", ha señalado.
+356	20	Los dos partidos constitucionalistas han vuelto a visibilizar sus diferentes estrategias ante el Govern de Torra.
+357	20	Carrizosa ha calificado de "vergonzosa" la respuesta del Gobierno de Pedro Sánchez de enviar tres cartas al Govern para reconducir la situación.
+358	20	"Torra llama la violencia y criminaliza a los policías y la consecuencia es que le envían tres cartas.
+359	20	Debe estar temblando tras salir de la dieta de Montserrat", ha ironizado respecto al ayuno que ha realizado el president durante dos días en apoyo a los presos.
+360	20	lo que cambia es que se aplique la CE; que Miquel Buch y Torra no estén al mando de los mossos.
+361	20	Ciudadanos reclama que el Gobierno aplique el requerimiento constitucional mientras los socialistas rechazan esa vía.
+362	20	La dirección de Ciudadanos culpa a Pedro Sánchez de no actuar contra sus "socios independentistas" porque le permitieron llegar a La Moncloa.
+363	20	"No situamos el debate en independencia o vías eslovenas ni en 155.
+364	20	Lo que quiere Pedro Sánchez y el conjunto del socialismo es hablar de autogobierno.
+365	20	Es imprescindible por parte de los independentistas es dejar de hablar de la unilateralidad".
+366	21	El Gobierno no contempla la intervención de Cataluña con una nueva aplicación del artículo 155 de la Constitución, como reclaman PP y Ciudadanos, tras la última escalada en la crisis con los independentistas.
+367	21	La vicepresidenta Carmen Calvo ha sido tajante al rechazar que el Ejecutivo de Pedro Sánchez se esté planteando hacerlo como ya hiciera la Administración de Mariano Rajoy en octubre de 2017, lo que supuso la suspensión de Carles Puigdemont y sus consejeros además de la convocatoria de elecciones autonómicas en la comunidad en seis meses.
+368	21	Las polémicas declaraciones del president Quim Torra, partidario de la vía eslovena "con todas sus consecuencias" para lograr la independencia -Eslovenia se separó de la antigua Yugoslavia tras una guerra de 10 días y casi un centenar de muertos- han tensionado todavía más el conflicto territorial.
+369	21	"No", ha sentenciado la número dos del Gobierno a las preguntas de la predisposición para usar el artículo citado de la Ley Fundamental.
+370	21	El Gobierno reprochó este lunes la “dejación de funciones” de los Mossos en los cortes de autopistas y advirtió a la Generalitat que enviará a la Policía Nacional si no se garantiza la seguridad.
+371	21	La contundencia con que Calvo ha negado que se pueda repetir el mismo escenario que hace un año se produce horas después de que la Generalitat rebajara la tensión con el Gobierno.
+372	21	La portavoz del Govern, Elsa Artadi, ha observado que la celebración del Consejo de Ministros previsto para el próximo 21 de diciembre en Barcelona se debe garantizar.
+373	21	La vicepresidenta ha replicado a las críticas de la gestión de la crisis catalana realizadas PP y Ciudadanos cuestionando la disposición de los partidos de Pablo Casado y Albert Rivera a alcanzar acuerdos con Vox, cuyo apoyo necesitan para que el PSOE pierda la Junta de Andalucía tras 36 años de gobiernos consecutivos.
+374	21	"Ustedes utilizan constantemente el nombre de la Constitución en vano, utilizan y jalean un territorio sobre el resto", ha contestado a la senadora de Ciudadanos Lorena Roldán, a la que ha insistido que tanto Manuel Valls como los liberales europeos han advertido al partido de Rivera "que no se acerque a la ultraderecha".
+375	21	Previamente, la representante de Ciudadanos ha hecho hincapié en el resultado de las elecciones andaluzas y ha cargado contra la relación de los socialistas con ERC y PDeCAT, a los que necesita para aprobar los Presupuestos de 2019:
+376	21	"Los andaluces han puesto fin a 40 años de PSOE en Andalucía y han dejado claro a Pedro Sánchez que no aprueban su política de cesiones en Cataluña 
+377	21	Nos han vendido al independentismo y lo que no han perdido es el miedo y por eso no convocan elecciones".
+378	21	"Nosotros nunca hemos comprado el independentismo, ustedes entienden y abrazan las ideas de Vox", le ha dicho Calvo a la senadora del PP Cristina Ayala, con un discurso similar al de la representante de Ciudadanos.
+379	22	El ministro de Exteriores, Josep Borrell, se ha sumado este lunes al alud de críticas contra las declaraciones formuladas por Quim Torra el sábado en Bruselas.
+380	22	El presidente de la Generalitat llamó a los independentistas a seguir adelante "con todas las consecuencias" poniendo como ejemplo a Eslovenia, que se convirtió en Estado tras una guerra que duró 10 días y dejó 62 muertos.
+381	22	“Es un lenguaje que parece que esté llamando a una insurrección”, ha advertido Borrell a su llegada a la capital belga, donde participa en una reunión de ministros de la UE.
+382	22	Recordó que en la Cámara catalana han sido habituales las referencias a procesos de independencia a través de la violencia.
+383	22	“No es la primera vez que recurren a este planteamiento.
+384	22	En el Parlamento de Cataluña se ha propuesto en varias ocasiones seguir la vía de Kosovo, y Junqueras ha dicho en varias ocasiones que había que seguir la vía irlandesa, que acabó en una guerra civil tremenda", rememoró en referencia al exvicepresidente catalán, Oriol Junqueras.
+385	22	El político socialista cree que la tensión política en Cataluña hace que ahora se examinen con lupa exabruptos que antes pasaban desapercibidos o quedaban rápidamente olvidados.
+386	22	El ministro ha evitado sumarse a la petición del líder del Partido Popular, Pablo Casado, que cree suficientes las palabras de Torra para volver a aplicar el artículo 155 de la Constitución.
+387	22	El presidente de la Generalitat no ha sido el único que en las últimas horas ha realizado declaraciones con aroma belicista.
+388	22	Ha llegado la hora de pagar el precio alto, injusto, pero inevitable, de nuestra libertad”, dijo el exconsejero de Salud Toni Comín en el mismo acto de presentación del Consejo para la República en la capital belga.
+389	23	El presidente del Gobierno, Pedro Sánchez, acudirá este miércoles al Congreso para protagonizar un pleno monográfico sobre la complicada situación política y social en Cataluña y comprobará de nuevo que el creciente clima de crispación se ha enconado también en la Cámara baja y que la división sobre cómo gestionar ese problema sigue igual de vigente que hace meses.
+390	23	PSOE y sus principales socios de moción de censura, ERC, PNV, PDeCAT y Podemos, mantienen que es importante recuperar la normalidad y el diálogo institucional con la Generalitat pese a los últimos incidentes violentos y las acusaciones de dejación a los Mossos.
+391	23	Solo el PDeCAT precisó que en este contexto puede resultar "irritante para la sociedad catalana" el Consejo de Ministros del día 21 en Barcelona.
+392	23	PP y Ciudadanos exigen al presidente Pedro Sánchez que les convoque con urgencia para activar la intervención del Gobierno catalán con el artículo 155 y convoque elecciones.
+393	23	ERC, PNV, PDeCAT y Podemos mantienen su creencia en que es bueno insistir en la vía del diálogo incluso en esta situación actual para restablecer las relaciones con la Generalitat y por tanto defienden que no van en esa línea las tres cartas oficiales enviadas el lunes por la vicepresidenta, Carmen Calvo, y los ministros del Interior, Fernando Grande Marlaska, y de Fomento, José Luis Ábalos, requiriendo a sus homólogos en el Ejecutivo catalán la recuperación del orden público y advirtiendo de una posible intervención estatal.
+394	23	Todas esas formaciones, incluidas las nacionalistas catalanas, cuestionaron este martes en el Congreso la oportunidad de la llamada vía eslovena planteada por el presidente catalán, Quim Torra, tras un reciente viaje a ese país.
+395	23	El PSOE intentó defender como pudo desde el Congreso las diferencias de criterio evidenciadas sobre la decisión de Pedro Sánchez de celebrar ese Consejo de Ministros en Barcelona.
+396	23	Su portavoz en la cámara, Adriana Lastra, repitió que el plan de Sánchez es organizar esas reuniones en todas las autonomías y que ya lo hizo antes en Sevilla y cuestionó, sobre todo, el comportamiento "desleal y mezquino" del PP ahora en la oposición sobre todo lo relacionado con Cataluña frente al que su partido tuvo cuando el ejecutivo de Mariano Rajoy aplicó el 155.
+397	23	Desde En Comú Podem, Josep Vendrell lamentó "la deriva sin nombre del deslegitimado" president Torra y su vía eslovena pero apuntaron que ni siquiera esas actitudes justificarían el "giro de guion" del presidente del Gobierno, Pedro Sánchez, amenazando con diferentes tipos de intervenciones estatales.
+398	23	Para esa formación ninguna intervención y menos aún el artículo 155 de la Constitución serían justificables y sí "gravísimas".
+399	23	El portavoz del PNV, Aitor Esteban, tildó como "desafortunada" también la aportación de Torra sobre la vía eslovena pero piensa que sería ilegal que el Gobierno central y el Ministerio del Interior intentasen ahora intervenir y controlar la actuación de los Mossos en Cataluña.
+400	23	Eso sí, Esteban pidió a Generalitat y Gobierno central que pasen de los gestos y las palabras a los hechos y a solucionar problemas y vaticinó que le pleno monográfico sobre Cataluña debería ser importante.
+401	23	Desde el PDeCAT, su portavoz, Carles Campuzano, expresó que no entendía las cartas amenazantes del ejecutivo, que le parecieron poco responsables porque piensa que cuestionan la capacidad del Gobierno catalán de poner orden y generan así incertidumbre.
+402	23	Ni ERC ni PDeCAT se adentraron a comentar las actuaciones de los Mossos del pasado fin de semana y justificaron su inacción ante determinados comportamientos 
+403	23	(como el levantamiento de peajes en autopistas por parte de radicales)
+404	23	en criterios técnicos y profesionales por parte de la cúpula de ese cuerpo policial.
+405	23	Carles Campuzano, sin embargo, sí quiso indicar que no le parece oportuno en este contexto de crispación la celebración de un Consejo de Ministros el día 21 en Barcelona.
+406	23	Luego matizó que Sánchez y Torra deberían verse y hablar, pero no en el contexto de la cita del día 21 y pidió al Gobierno central planteamientos más de fondo sobre el origen del problema.
+407	23	Joan Tardá, de ERC, no quiso profundizar en si puede ser bueno o malo que se monte un Consejo de Ministros en este clima en Cataluña pero sí subrayó que los incidentes de estos días no fueron tan graves como las manifestaciones el pasado verano de taxistas en Barcelona y Madrid, concluyó que con las supuestas exageraciones actuales se intenta crear una tensión irreal y se desligó de la vía eslovena de Torra al reafirmar que la única vía viable para la república catalana es la "cívica, pacífica y democrática".
+408	24	Albert Rivera ofrece a Pedro Sánchez consenso para aplicar el artículo 155 en Cataluña, pero quiere que el acuerdo entre los partidos constitucionalistas incluya la convocatoria de elecciones generales.
+409	24	El pacto que propone el líder de Ciudadanos al presidente del Gobierno sería un paquete de 155 y elecciones, porque “Sánchez no puede ser el presidente que aplique a largo plazo la Constitución en Cataluña”, ha argumentado Rivera ante sus diputados en la reunión de su grupo parlamentario.
+410	24	El PSOE, el PP y Ciudadanos se comprometerían a prolongar la intervención de Cataluña mediante este artículo constitucional después de las elecciones, apoyando a quien las ganara.
+411	24	Rivera forzará además a que el Gobierno socialista se pronuncie sobre la aplicación del 155, al llevar al pleno una votación en el Congreso la semana próxima sobre la intervención de dicha comunidad.
+412	24	La proposición no de ley de Ciudadanos que el partido ha logrado que se debata la semana que viene en el Parlamento insta al Gobierno de España "a realizar el requerimiento previo al presidente de la Generalidad de Cataluña que contempla el artículo 155 de la Constitución".
+413	24	Es una iniciativa sin fuerza de ley, pero con valor político.
+414	24	Si saliera adelante, sería un mandato del Congreso al Gobierno para poner en marcha de nuevo este precepto constitucional.
+415	24	La Cámara baja ya rechazó el pasado octubre dos mociones de PP y Ciudadanos que pedían la aplicación de dicho artículo.
+416	24	Ahora, Rivera vuelve a contar con los votos del PP 
+417	24	, pero el PSOE puede conseguir que no salga aprobada como en octubre con la mayoría que apoyó la moción de censura 
+418	24	Ciudadanos cree, no obstante, que los socialistas quedarán en esta votación en una situación complicada, porque tendrían que votar en contra para que no saliera adelante 
+419	24	y eso sería lanzar un mensaje de supuesta debilidad ante el enrarecimiento de la situación en Cataluña.
+420	24	Ayer el Ejecutivo de Pedro Sánchez avisó a la Generalitat de que enviará a la Policía Nacional si no es capaz de garantizar la seguridad.
+421	25	Desde hace dos meses toda la prensa del Reino Unido y la de medio mundo habla de la enemistad de Meghan Markle con Kate Middleton y del carácter calificado como "tiránico" de la primera; también de cómo estas fricciones están afectando a la relación entre Guillermo y Enrique de Inglaterra, hasta ahora dos hermanos muy unidos.
+422	25	En las últimas horas una nueva información ha resituado toda esta historia convertida ya en un culebrón que engancha como todos los que tienen que ver con líos de familia.
+423	25	Según revela la corresponsal real, Emily Andrews habría una explicación para las tensiones entre los dos príncipes y esta tendría que ver con la obsesión de Enrique de proteger a su esposa para que no sea víctima de la presión que sufrió su madre Diana con las fuerzas vivas de palacio y con la prensa.
+424	25	Enrique "no soporta ninguna crítica sobre Meghan", sostiene Andrews que asegura que fuentes de palacio informan de que el príncipe está muy marcado por la historia de su madre.
+425	25	"Enrique siente que no pudo proteger a su madre por lo que hace todo lo posible para proteger a su esposa.
+426	25	Es tan protector que a menudo ve críticas negativas donde no hay ninguna".
+427	25	Un ímpetu que ha pagado hasta con su hermano cuando este inicialmente manifestó algunas reservas sobre Meghan tras reunirse con ella en el Palacio de Kensington cuando comenzaba su relación con Enrique.
+428	25	Por esta obsesión de proteger a Meghan, por ejemplo, Enrique ha decidido instalar su hogar en Windsor, lejos de la corte y de la presión mediática.
+429	25	Además de acondicionar una vivienda cercana para su suegra que se mudará a vivir allí.
+430	25	Las fricciones que están aflorando estos días dejan atrás otros momentos de complicidad fraternal.
+431	25	En el documental The Diana Story, Paul Burrell, el mayordomo de Lady Diana, revela, por ejemplo, por qué Enrique decidió darle el anillo de compromiso de su madre a Guillermo.
+432	25	Según su versión después de la muerte de Lady Diana, sus hijos se repartieron sus joyas, esperando algún día pasarlas a sus esposas o hijas.
+433	25	Guillermo quiso el Cartier, que su madre había recibido de su abuelo Spencer con motivo de su cumpleaños número 21 y Enrique se quedó con su anillo de compromiso aunque al final decidió dárselo a su hermano mayor para que se lo regalara a Kate Middleton.
+434	25	"El príncipe Enrique dijo:
+435	25	Pero luego pensó que lo mejor era que esa joya fuera para alguien que un día se sentará en el trono de Inglaterra, algo que su madre no pudo hacer".
+436	25	Aunque es poco habitual que el nieto de Isabel II hable de su vida personal, en junio de 2017 lo hizo para confesar los duros años que vivió tras la muerte de la princesa Diana.
+437	25	En una entrevista al diario The Telegraph reconoció que vivió un periodo de “caos total”, y que no fue hasta los 28 años cuando se atrevió a buscar ayuda profesional.
+438	25	Esto solo me va a poner triste.
+439	25	No fue hasta los 28 años cuando se atrevió a buscar ayuda profesional, después de que varias personas le incitaran, especialmente su hermano mayor, el príncipe Guillermo.
+440	25	"Fueron 20 años de no pensar en esto y después dos años de caos total", dijo.
+441	26	El Gobierno municipal de Manuela Carmena se lo ha jugado todo a Madrid Central, el área de tráfico restringido en la capital que entró en vigor el pasado 30 de noviembre.
+442	26	De momento, va ganando la apuesta.
+443	26	La concejala de Movilidad y Medio Ambiente del Ayuntamiento, Inés Sabanés, ha hecho una “valoración positiva” de los primeros 10 días de la medida.
+444	26	En una rueda de prensa empañada por la boina de contaminación que ha obligado a activar el protocolo que limita aún más la circulación en la ciudad, Sabanés ha anunciado que los datos recogidos por el Ayuntamiento confirman que los ciudadanos están usando menos el coche y más el transporte público.
+445	26	Madrid Central está solo en fase informativa, sin sanciones hasta marzo, al menos.
+446	26	Su entrada en vigor se preveía escalonada, pero el impacto ha llegado antes de lo previsto y se están cumpliendo todos los modelos y estudios previos que había realizado el Ayuntamiento.
+447	26	Que los primeros 10 días hayan coincidido con el arranque de la campaña de Navidad y el puente de diciembre llama a la cautela, pero según los datos del Ayuntamiento, el tráfico en Gran Vía se ha reducido hasta el 30,48% en días de diario comparado con un periodo similar del año anterior.
+448	26	En el perímetro de Madrid Central también baja en un 2%, mientras que se produce una subida en la M-30, del 1,6%.
+449	26	Durante los días festivos se ha mantenido el descenso en San Bernardo y Toledo, en un 7,9 y un 9,7% respectivamente.
+450	26	No así en Gran Vía, donde la intensidad del tráfico subió en un 3,7%, que el Ayuntamiento atribuye a que el año pasado se produjeron cortes de tráfico en esa arteria para solucionar retenciones.
+451	26	Por la misma calle se han movido unas 160.000 personas de media al día, aunque no hay datos comparativos de periodos anteriores.
+452	26	— ha visto un aumento de unos 10.000 viajeros al día, según el Ayuntamiento.
+453	26	Toda la red ha experimentado un incremento del 3% de la demanda, que en las líneas que cruzan Madrid Central llegan al 4,7%.
+454	26	Esas líneas han mejorado sus frecuencias de paso hasta en un 20%, comparado con un día tipo de 2018.
+455	27	Ciudadanos ha anunciado esta mañana que se replanteará el apoyo a la ley de regulación de la eutanasia que el PSOE ha presentado en el Congreso.
+456	27	Lo ha anunciado el portavoz del partido de Rivera en la Comisión de Sanidad en el Congreso, Francisco Igea.
+457	27	Con ello se tambalea el acuerdo que había entre ambos partidos para que los socialistas apoyaran la ley de muerte digna de Ciudadanos 
+458	27	(una propuesta para asegurar el derecho a recibir cuidados paliativos hasta el final de la vida en todas las comunidades)
+459	27	A cambio, los de Rivera desbloquearían el proyecto de ley de eutanasia que los socialistas presentaron en mayo de este año.
+460	27	La causa de la ruptura ha sido que el PSOE ha sacado adelante, con la oposición del PP y Ciudadanos, una enmienda a la ley de muerte digna que deja en manos de las comunidades autónomas establecer el régimen sancionador.
+461	27	Tras la sesión, Igea ha defendido que su propuesta buscaba garantizar una atención igual para todos los ciudadanos, vivieran donde vivieran, que así no tendrían que elegir entre "el horror y el suicidio".
+462	27	Pero "para garantizar esa igualdad hace falta un régimen sancionador común", ha dicho Igea, quien ha comparado la propuesta del PSOE a que las comunidades tuvieran distinta regulación de lo que es un hurto o un robo con violencia, con diferentes penas.
+463	27	La proposición debe ahora ser debatida en el pleno del Congreso, donde Igea ya ha anunciado que mantendrá su propuesta.
+464	27	Ahí, la mayoría que apoya al actual Gobierno del PSOE –con un importante peso de los nacionalistas catalanes y vascos, muy pendientes de los asuntos competenciales– podría tumbar de nuevo la idea de un sistema de sanciones común.
+465	27	La norma, además del tema de las sanciones, establece el derecho de todos los ciudadanos a recibir la mejor atención en el momento de la muerte.
+466	27	Aclara el derecho a ser informado para tomar las decisiones que considere necesarias mediante un documento de últimas voluntades, la posibilidad de pedir la retirada de medidas de soporte vital y que haya atención paliativa domiciliaria en todas las comunidades.
+467	27	Al mismo tiempo, regula la sedación terminal, que es la posibilidad de que un enfermo reciba un tratamiento todo lo eficaz posible para eliminar o reducir síntomas como el dolor, la disnea o la angustia al final de la vida, aunque sea a costa de que esos fármacos adelanten la muerte, siempre que se aplique en los últimos momentos de un proceso irreversible, que cause gran sufrimiento y letal a corto plazo.
+468	27	La propuesta de partido de Rivera tiene como objetivo acabar con la inequidad actual, en la que 10 comunidades ya tienen leyes de muerte diga o cuidados paliativos.
+469	27	Y es precisamente ese hecho el que explica la postura socialista, según ha dicho Jesús María Fernández Díaz, portavoz del PSOE en la Comisión de Sanidad.
+470	27	"Hay normas como el Código de la Circulación y el Penal que son estatales, pero en otros ámbitos, como el consumo, las comunidades tienen las competencias.
+471	27	De las 10 comunidades con leyes de paliativos, ocho hacen un desarrollo específico concreto de las sanciones, y dos, Madrid y País Vasco, referencian a regímenes propios de sus leyes sanitarias", afirma el portavoz socialista.
+472	27	El PSOE se juega con la ley de eutanasia la posibilidad de sacar adelante una norma de importante calado social y carácter progresista, con un simbolismo equiparable a las leyes contra la violencia de género y del matrimonio igualitario del primer Ejecutivo de Zapatero.
+473	27	En la Cámara baja tiene la mayoría suficiente para sacarla adelante 
+474	27	(la misma que apoyó la investidura de Pedro Sánchez)
+475	27	, pero se enfrenta al problema de la Mesa del Congreso, controlada por el PP y Ciudadanos, que la tienen bloqueada.
+476	27	En el acuerdo de apoyo mutuo para las respectivas leyes de muerte digna se establecía que los representantes del partido de Rivera permitirían que la iniciativa se tramitara al dejar de prorrogar el plazo de enmiendas.
+477	27	"Tendría que explicar por qué votó a favor de que se tomara en consideración nuestra ley y luego la bloquea".
+478	28	Los equipos negociadores del PP y Ciudadanos han iniciado su primera reunión para forjar el acuerdo de Gobierno en Andalucía que desaloje del poder al PSOE por primera vez en 36 años.
+479	28	Poco después de las cuatro de la tarde entraban en la sala de la Mesa del Parlamento de Andalucía el líder territorial de los populares andaluces, Juan Manuel Moreno, escoltado por su secretario general, Teodoro García Egea, Loles López, la secretaria del PP en Andalucía, su portavoz en la comunidad, Elías Bendodo —que luego se ha salido— y el vicesecretario de Organización, Javier Maroto.
+480	28	Diez minutos más tarde se les unía el grupo de los de Albert Rivera, encabezados por su dirigente regional, Juan Marín, seguido del secretario general del partido, José Manuel Villegas y las diputadas andaluzas Marta Bosquet y Ana Llopis.
+481	28	“Afrontamos en encuentro con serenidad y tranquilidad”, ha señalado Moreno antes de entrar en la sala.
+482	28	Aunque este martes comienzan oficialmente las conversaciones entre ambas fuerzas, los contactos en Madrid entre sus secretarios generales han sido fluidos estos últimos días, hasta el punto de que altos cargos de los populares andaluces, incluido su propio líder territorial, se muestran muy optimistas ante la posibilidad de zanja con éxito un acuerdo de gobierno en un espacio de tiempo relativamente breve.
+483	28	El principal escollo para sellar el pacto era a priori la presidencia de la Junta, pero el propio Villegas allanó bastante el camino este lunes, al reconocer que ese cargo no sería una línea roja para Ciudadanos.
+484	28	Sobre la mesa se encuentran las primeras medidas que adoptará el futuro Gobierno de cambio.
+485	28	Ciudadanos está de acuerdo, al igual que también hay consenso sobre la eliminación del impuesto de sucesiones.
+486	28	La rebaja del IRPF, la eliminación de la subasta de medicamentos, la reducción de las listas de espera y la mejora de infraestructuras educativas son otras de las medidas en las que están de acuerdo.
+487	28	Por su parte, Ciudadanos llevará tres bloques de regeneración democrática con la eliminación de aforamientos políticos.
+488	28	Queda también por concretar el reparto de las Consejerías y una cuestión importante:
+489	28	la presidencia del Parlamento, que todo apunta a que recaerá en manos de Ciudadanos -se baraja el nombre de la diputada por Almería Marta Bosquet, presente en la mesa de negociación- y la configuración de la Mesa.
+490	28	Todo apunta a que el reparto será polémico, ya que, si PP y Ciudadanos quieren asegurarse la presidenta de la cámara andaluza necesitarán los votos de Vox que reclamarían a cambio estar presentes en la mesa.
+491	28	Una presencia simbólica contra la que el PSOE y Adelante Andalucía han avisado de que plantarán cara jurídica y políticamente.
+492	28	La presencia por parte de Ciudadanos de dos diputadas regionales busca aplacar las críticas de un excesivo protagonismo y control por parte de las direcciones nacionales de los partidos en unas negociaciones para dirimir la presidencia andaluza.
+493	28	En el caso del PP, la salida de Bendodo en el último momento, ha equilibrado el peso entre representantes de la ejecutiva nacional y la andaluza en el PP.
+494	28	Mientras las negociaciones entre PP y Ciudadanos para pactar la investidura han comenzado ya, la candidata socialista, Susana Díaz, que este lunes se mostró muy firme en la legitimidad que le otorga haber sido la fuerza más votada para liderar la formación de Gobierno, se ha encontrado con los primeros escollos.
+495	28	El lunes, la dirigente de Adelante Andalucía, Teresa Rodríguez, durante la conversación telefónica que ambas mandatarias mantuvieron a instancias de Díaz, le dejó claro que para tener los votos de la coalición primero debía conseguirse el apoyo de Ciudadanos, una posibilidad casi imposible, toda vez que la única condición irrenunciable de los naranjas es sacar al PSOE de la Junta de Andalucía.
+496	29	El actual director general de la Policía, Francisco Pardo, ha remitido al juez de la Audiencia Nacional José de la Mata un breve informe de la Unidad de Asuntos Internos en el que admite oficialmente la existencia de una denominada Operación Kitchen para espiar al que fuera tesorero del PP Luis Bárcenas.
+497	29	En el documento, al que ha tenido acceso EL PAÍS, se detalla que en este dispositivo que tenía como objetivo sustraer la documentación comprometedora para los populares que pudiera esconder Bárcenas no solo participaron agentes adscritos a la Dirección Adjunta Operativa 
+498	29	, foco de la llamada policía patriótica, sino también policías destinados en la Comisaría General de Información, responsable de la lucha antiterrorista.
+499	29	Uno de sus mandos, el comisario Enrique García Castaño está imputado por sus vínculos con el también comisario José Manuel Villarejo, señalado como cabecilla de una trama policial.
+500	29	` En el informe policial, de poco más de un folio de extensión, la Unidad de Asuntos de Interior recuerda al juez De la Mata que la Operación Kitchen está ya siendo investigada por el también magistrado de la Audiencia Nacional Diego de Egea dentro del 'caso Villarejo', sobre las actividades supuestamente irregulares del comisario ya jubilado.
+501	29	"De los indicios recopilados hasta el momento -se lee en el documento-, se conoce que en dicha operación han participado funcionarios adscritos a la sacón 
+502	29	(años 2013 a 2015)
+503	29	a la Dirección Adjunta Operativa así como a la Comisaría General Información".
+504	29	El documento policial también destaca que hay "constancia de la utilización de colaboradores o informadores, alguno de los cuales recibía una remuneración periódico a cambio de la información facilitada", en clara referencia a Sergio Ríos, chófer de Bárcenas y a cuyo nombre han recibido recibís mensuales de 2.000 euros con cargo a los fondos reservados.
+505	29	La Policía añade que las pesquisas sobre los detalles de la Operación Kitchen no están finalizado y que, de hecho, "se continúan efectuando gestiones para determinar todos aquellos extremos relativos" a este operativo y que, para ello, se están haciendo diversas "consultas" a "los organismos de inteligencia y operativos del Cuerpo Nacional de Policía" para avanzar en las mismas.
+506	29	Hasta el momento, la Unidad de Asuntos Internos ha entregado al juez De Egea dos informes sobre el espionaje a Bárcenas.
+507	29	El primero, fechado el 29 de octubre.
+508	29	Ambos se incorporaron a la séptima pieza separada abierta por el magistrado en el sumario del caso Villarejo y que mantiene secreta por ahora.
+##END_CONTEXTS##
+##TERMS##
+#ID_TERM;TERM;WORD N;FREQUENCY;SELECTION;CONTEXTS_LIST;SELECTED_CONTEXTS_LIST
+0	año	1	17	0	90,91,77,301,304,0,1,9,12,338,371,447,450,459,68,71,73	_
+1	Solo	1	15	0	391,105,78,284,285,0,4,5,438,445,272,275,32,497,158	_
+2	situación	1	12	0	186,197,389,393,418,419,92,99,329,351,357,44	_
+3	ciudadanos	1	43	0	15,183,191,193,233,392,409,410,412,415,418,98,312,1,3,13,347,351,361,362,366,373,374,375,378,444,455,457,460,461,465,475,478,483,485,489,487,490,492,252,253,494,495	_
+4	Gobierno	1	47	0	184,193,220,389,392,397,399,400,401,406,409,411,412,414,74,296,302,325,287,289,12,357,361,366,370,369,371,441,464,478,482,484,268,263,63,34,40,45,48,52,53,55,56,58,59,494	_
+5	guerra	1	16	0	23,24,183,187,218,175,335,336,380,384,368,259,37,47,164	_
+6	General	1	11	0	189,181,99,0,5,479,480,64,496,498,503	_
+7	Torra	1	24	0	19,196,386,394,397,399,406,407,295,288,379,347,349,351,353,356,358,360,368,234,47,120,125,129	_
+8	vía	1	19	0	196,393,394,397,399,407,7,384,345,347,353,361,368,447,450,47	_
+9	antes	1	11	0	21,396,322,334,6,385,446,481,266,261,145	_
+10	central	1	14	0	399,400,406,74,299,327,287,289,441,445,448,453,275,263	_
+11	España	1	21	0	18,202,206,208,217,233,174,412,2,10,11,12,269,246,249,253,67,166,170	_
+12	adelante	1	10	0	19,414,418,380,460,472,473,491,58,495	_
+13	país	1	13	0	17,206,394,328,10,471,268,235,47,497,169,127	_
+14	otros	1	15	0	16,18,227,430,79,320,322,282,470,274,244,38,112,136,156	_
+15	Andalucía	1	15	0	14,191,193,102,373,376,478,479,491,495,166,168,111	_
+16	día	1	16	0	183,181,432,435,391,405,406,287,8,340,348,451,452,454,264,57	_
+17	parte	1	18	0	403,404,99,299,326,332,333,340,365,487,492,269,243,254,39,125	_
+18	hace	1	21	0	194,176,181,389,421,425,100,327,289,9,10,385,339,371,462,268,236,243,260,152	_
+19	años	1	23	0	185,205,211,76,311,327,9,340,373,376,436,437,439,440,478,238,243,63,64,73,502,133	_
+20	donde	1	14	0	174,426,88,325,10,381,344,450,461,463,272,264,70,173	_
+21	tanto	1	18	0	22,213,233,179,393,100,296,310,315,284,11,374,270,279,242,261,30,130	_
+22	todo	1	34	0	21,20,200,213,219,223,228,174,396,425,82,105,108,300,316,283,290,12,441,467,489,490,268,241,252,28,29,116,123,126,133,149,155	_
+23	acuerdo	1	16	0	17,408,302,310,12,352,457,476,478,482,486,485,60,62,66,57	_
+24	ayuntamiento	1	12	0	86,88,91,92,93,94,443,444,446,447,450,452	_
+25	Parlamento	1	10	0	412,102,12,384,479,489,237,26,28,58	_
+26	primera	1	10	0	24,218,421,76,311,13,383,478,69	_
+27	elecciones	1	17	0	208,392,408,409,410,96,107,299,314,316,286,13,367,375,377,40,46	_
+28	Cataluña	1	38	0	14,197,198,389,396,399,400,407,408,409,410,412,419,83,106,107,384,385,347,366,376,247,253,254,45,53,166,165,169,170,121,137,140,143,149,151,158,162	_
+29	políticos	1	11	0	15,184,199,204,212,97,98,101,79,487,109	_
+30	nacional	1	16	0	221,420,82,86,79,80,296,370,493,271,261,26,496,500,505,123	_
+31	Ministros	1	10	0	391,393,395,405,407,296,381,372,44,48	_
+32	mujeres	1	11	0	215,89,91,92,274,273,276,277,279,281	_
+33	todos	1	11	0	17,422,85,103,306,284,446,461,465,505	_
+34	además	1	12	0	18,205,411,429,103,321,282,353,367,465,47,53	_
+35	muchos	1	11	0	209,99,76,326,278,50,169,113,133,136,155	_
+36	Quim	1	12	0	19,196,394,295,288,379,347,368,234,47,120,125	_
+37	derecha	1	12	0	190,191,206,208,212,213,231,102,316,315,116,115	_
+38	todas	1	10	0	19,207,394,396,380,368,458,466,172,144	_
+39	caso	1	11	0	22,21,102,320,493,25,500,508,113,155,153	_
+40	catalán	1	14	0	22,21,197,392,393,394,401,106,384,133,145,148,155,153	_
+41	seguridad	1	14	0	420,84,98,296,288,343,370,261,42,48,52,53,54	_
+42	momento	1	16	0	21,108,308,317,325,332,337,341,344,442,465,493,254,501,506,150	_
+43	octubre	1	13	0	21,415,417,87,74,79,367,256,262,72,507,122	_
+44	independencia	1	12	0	21,196,382,347,363,368,30,34,36,35,146,162	_
+45	política	1	31	0	24,195,212,389,97,294,295,302,303,316,318,323,325,327,331,330,332,334,284,385,376,250,248,263,50,114,115,117,122,145,154	_
+46	eslovena	1	10	0	196,394,397,399,407,347,368,30,33,47	_
+47	Consejo	1	10	0	388,391,395,405,407,296,372,261,44,48	_
+48	Constitución	1	28	0	192,194,386,398,409,412,74,75,290,366,374,234,235,238,237,239,242,243,244,246,247,248,252,251,257,26,27	_
+49	Generalitat	1	17	0	196,199,387,390,393,400,420,287,289,292,380,347,370,371,41,42,50	_
+50	propuesta	1	11	0	195,91,94,350,458,461,462,463,468,60,31	_
+51	mientras	1	11	0	183,226,225,233,296,346,361,448,32,494,158	_
+52	Congreso	1	13	0	201,389,394,395,411,414,74,75,455,456,463,475,50	_
+53	operación	1	11	0	182,184,188,293,340,342,38,496,500,501,505	_
+54	toda	1	11	0	421,422,101,315,453,275,38,495,114,118,125	_
+55	semana	1	14	0	181,402,411,412,288,339,341,348,350,351,267,41,40,46	_
+56	Ejecutivo	1	14	0	393,396,401,420,74,367,472,65,41,44,49,50,51	_
+57	Mossos	1	20	0	390,399,402,84,294,295,287,292,351,360,370,41,43,47,49,53,55,119,128	_
+58	policía	1	18	0	181,420,82,83,86,79,80,81,296,292,370,42,53,496,498,505,121	_
+59	artículo	1	15	0	386,392,398,408,410,412,415,74,291,290,366,369,43,53,54	_
+60	PSOE	1	17	0	190,390,395,410,417,373,376,455,460,462,464,469,472,478,491,46,495	_
+61	Barcelona	1	11	0	391,395,405,407,296,297,372,44,49,48,133	_
+62	días	1	17	0	181,407,430,83,86,79,380,359,368,443,447,449,482,236,260,47	_
+63	ley	1	13	0	412,413,74,369,455,457,459,460,472,477,244,258,53	_
+64	Pedro	1	14	0	389,392,395,397,408,420,296,357,362,364,367,376,474,58	_
+65	euros	1	12	0	90,91,95,62,61,63,64,504	_
+66	partidos	1	18	0	209,213,230,408,99,104,107,79,316,321,282,350,356,373,457,492,112,124	_
+67	importante	1	10	0	203,390,400,308,329,464,472,488,73,136	_
+68	pasado	1	19	0	402,407,415,292,340,441,450,272,235,242,247,262,71,139,142,148,149,155,157	_
+69	Madrid	1	11	0	407,88,91,74,441,445,448,453,471,482,72	_
+70	Europa	1	18	0	210,216,222,298,301,309,313,316,315,317,319,324,325,265,171,173,134	_
+71	mayoría	1	10	0	417,83,89,91,354,464,473,252,255,163	_
+72	idea	1	10	0	195,88,464,275,281,245,167,110,147,162	_
+73	Vox	1	18	0	190,193,208,209,214,223,229,232,96,106,282,284,373,378,490,269,277,280	_
+74	partido	1	13	0	192,206,224,386,396,412,374,456,468,476,480,254,111	_
+75	historia	1	25	0	178,177,180,422,424,337,281,251,173,132,135,136,138,141,140,149,152,155,156,160,161,159	_
+76	Enrique	1	11	0	431,433,434,421,423,424,425,427,428,499,131	_
+77	Sánchez	1	16	0	389,392,395,396,397,406,408,409,420,296,357,362,364,367,376,474	_
+78	presidente	1	15	0	196,387,389,392,394,397,409,412,295,380,347,355,237,240	_
+79	Rivera	1	11	0	408,409,411,416,373,374,456,459,468,476,480	_
+80	portavoz	1	10	0	396,399,401,351,353,372,456,469,471,479	_
+81	Pedro Sánchez	2	13	0	389,392,395,397,408,420,296,357,362,364,367,376,474	_
+82	Reino Unido	2	8	0	18,421,299,305,307,311,313,13	_
+83	Quim Torra	2	12	0	19,196,394,295,288,379,347,368,234,47,120,125	_
+84	elecciones andaluzas	2	5	0	208,96,375,40,46	_
+85	vía eslovena	2	8	0	196,394,397,399,407,347,368,47	_
+86	EH Bildu	2	5	0	60,66,65,56,59	_
+87	Policía Nacional	2	7	0	420,82,86,79,80,296,370	_
+88	extrema derecha	2	6	0	191,206,213,102,316,116	_
+89	Gobierno central	2	5	0	399,400,406,287,289	_
+90	fin de semana	3	5	0	402,288,341,351,41	_
+91	PP y Ciudadanos	3	11	0	191,392,410,415,366,373,460,475,478,490,494	_
+92	Consejo de Ministros	3	8	0	391,395,405,407,296,372,44,48	_
+##END_TERMS##

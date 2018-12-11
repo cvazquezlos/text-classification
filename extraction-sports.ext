@@ -1,0 +1,370 @@
+##EXTRACTION FILE (Version: 1.3). DON'T EDIT##
+##FILES##
+#ID_FILE;PATH;TITLE
+0	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\01.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\01.txt
+1	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\02.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\02.txt
+2	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\03.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\03.txt
+3	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\04.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\04.txt
+4	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\05.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\05.txt
+5	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\06.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\06.txt
+6	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\07.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\07.txt
+7	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\08.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\08.txt
+8	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\09.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\09.txt
+9	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\10.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\10.txt
+10	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\11.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\11.txt
+11	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\12.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\12.txt
+12	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\13.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\13.txt
+13	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\14.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\14.txt
+14	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\15.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\15.txt
+15	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\16.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\16.txt
+16	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\17.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\17.txt
+17	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\18.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\18.txt
+18	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\19.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\19.txt
+19	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\20.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\20.txt
+20	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\21.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\21.txt
+21	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\22.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\22.txt
+22	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\23.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\23.txt
+23	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\24.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\24.txt
+24	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\25.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\25.txt
+25	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\26.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\26.txt
+26	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\27.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\27.txt
+27	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\28.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\28.txt
+28	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\29.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\29.txt
+29	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\30.txt	D:\Usuarios\cvazquezlos\GitHub\text-classification\texts\sports\30.txt
+##END_FILES##
+##CONTEXTS##
+#ID_CONTEXT;ID_FILE;CONTEXT
+0	0	Arsenio también estuvo arropado por vecinos y representantes del mundo del deporte y de la política.
+1	1	Desde que Santiago Solari llegó al Real Madrid han sido muchas las cosas que han cambiado y muchos los jugadores que han visto como sus situaciones personales dentro de la plantilla han sufrido un giro de 180º.
+2	1	Uno de los que más ha notado el cambio ha sido Marcos Llorente, un jugador que con Lopetegui sólo disputó once minutos frente al Espanyol en Liga.
+3	1	Desde que el brasileño se lesionó Llorente ha disputado cinco partidos como titular y con él en el campo el Real Madrid ha dejado siempre su portería a cero, una de las cuentas pendientes del equipo esta temporada.
+4	1	Es más, en los últimos cinco encuentros que ha disputado el equipo, sólo el Melilla, y ya sin Marcos en el campo, ha conseguido hacer gol al equipo de Chamartín.
+5	1	Sus actuaciones en el pivote del Real Madrid no han dejado indiferente a nadie y su estado de forma física es uno de los mejores de toda la plantilla en este momento de la temporada.
+6	1	Hay que recordar que Marcos ha pasado de la grada al campo de un día para otro y en una posición de las más difíciles con el esquema de juego del equipo blanco.
+7	1	En Copa del Rey contra el Melilla el equipo dejó su marcador a cero y Marcos se empezó a reivindicar.
+8	1	En Liga, contra el Valencia y el Huesca volvió a ser de los más destacados del equipo de Solari y de nuevo el Madrid no encajó.
+9	1	Y en Champions, en un importante partido en Roma en el que el equipo necesitaba la victoria para clasificarse para octavos, el mediocentro volvió a dar un recital jugando los noventa minutos.
+10	1	Los últimos cinco partidos que Llorente ha jugado como titular han acabado con cinco victorias para los blancos, con sólo un gol en contra cuando él ya había abandonado el terreno de juego, y sumando 405 minutos.
+11	1	Casemiro tiene previsto volver para el Mundial de Clubes y será el momento en el que Solari deba decidir si Llorente vuelve a la grada o sigue confiando en él.
+12	2	Cuando faltan pocos días para el clásico Real Madrid-Barcelona del fútbol español, el crack portugués Cristiano Ronaldo sumó hoy su segundo día sin entrenarse, hecho que enciende las alarmas en torno a una posible lesión.
+13	2	El club merengue sigue sin dar explicaciones al respecto, aunque algunas versiones sugieren que el técnico del Madrid, el francés Zinedine Zidane, mantiene a Cristiano fuera de los entrenamientos del equipo por precaución, tras acabar con molestias en el choque por la corona del Mundial de Clubes, el sábado último.
+14	2	Rara vez CR7 se pierde algún entrenamiento del conjunto, por lo que las especulaciones continuarán hasta que el crack salte al césped antes del fin de semana.
+15	2	Los rumores toman mayor revuelvo porque el sábado venidero, a las 13:00 hora local, en el estadio Santiago Bernabéu de esta capital, el Real Madrid enfrentará al FC Barcelona, líder de la Liga española, en el superclásico del campeonato.
+16	2	Actualmente, el Barcelona comanda la Liga con 42 puntos, seguido por el Atlético de Madrid 
+17	2	, mientras el Real Madrid ocupa la cuarta posición con 31 rayas y un partido menos disputado.
+18	3	Aún falta poco más de dos meses para que los monoplazas vuelvan a rodar sobre el asfalto del Circuit Barcelona Cataluña con motivo de la pretemporada del Mundial de Fórmula 1 2019, pero el trabajo en las fábricas de las escuderías es frenético.
+19	3	Un monoplaza, que conducirá Carlos Sainz y Lando Norris, que estará propulsado por segundo año consecutivo por Renault.
+20	3	La unidad de potencia diseñada por Rémi Taffin ha finalizado el Mundial de Fórmula 1 2018 a 53 y 26 caballos de Mercedes y Ferrari en clasificación y carrera respectivamente.
+21	3	Preguntado por este déficit, Zak Brown confirma que en Abu Dhabi el fabricante galo le entregó un informe alentador sobre el propulsor de la próxima temporada:
+22	3	Recibí mi informe en Abu Dhabi sobre cómo está yendo la unidad de potencia del próximo año y es muy alentador".
+23	4	Bajo la cúpula del Hotel Palace, de Madrid, las que brillaron fueron ellas.
+24	4	No fue necesaria votación para la 12ª edición de los Premios As en el año en el que las reclamaciones de igualdad de género han dejado de ser un runrún para convertirse en grito, también en el deporte.
+25	4	Y merecían tener su gran noche.
+26	4	Al borde de los 84 años, quiso estar en Madrid al lado de unas jóvenes que la miraban con ojos como platos.
+27	4	hace sesenta años ya.
+28	4	En Melbourne 1956, sólo un 13% de las participantes fueron mujeres.
+29	4	Otra adelantada que tuvo su tributo fue Edurne Pasaban, primera mujer en hacer cima en los 14 ochomiles.
+30	4	Conquistadora en el montañismo, "un mundo de hombres" y Premio Trayectoria.
+31	4	Es el caso de Mari Paz Corominas, que entró en una final de natación en México 1968 
+32	4	O Carmen Valero, primera atleta española en unos Juegos 
+33	4	y doble campeona del mundo de cross 
+34	4	Compartieron mesa con Miriam Blasco, la judoca que se colgó en Barcelona 1992 el primer oro, la regatista Theresa Zabell, Mercedes Coghen 
+35	4	Con Jesús Gallego a los mandos de la Gala, por el escenario desfilaron campeonas del mundo como Lydia Valentín, que este curso ha ganado el segundo; Sandra Sánchez, que llegó con el tiempo justo desde Shanghái tras pillar otro oro para el karate; Ana Carrasco 
+36	4	(la mejor del mundo Sub-18 en heptatlón)
+37	4	Su beso, a través del vídeo, llegó eso sí a su destino.
+38	4	El Atlético fememino, campeón de la Liga Iberdrola, y la Selección de baloncesto, bronce mundial, rivalizaron en presencia.
+39	5	Florentino Pérez estuvo sensacional en su habitual discurso en la comida de Navidad que realiza el Real Madrid con la prensa.
+40	5	El presidente del club, de manera elegante, propició varios zascas.
+41	5	Además habló de Modric, de la marca Real Madrid, lo que representa el club y el momento que viven.
+42	5	”Somos el único club del mundo con una televisión en abierto” Florentino Pérez elogió la labor que realiza Real Madrid Televisión y destacó que es la única perteneciente a un club que emite en abierto.
+43	5	“El Real Madrid es la marca con más audiencia mundial” El presidente blanco presumió de la marca Real Madrid, que es la que más audiencia tiene a nivel mundial.
+44	5	Algunos critican al club blanco, pero el éxito de este club es real gracias a la gestión de Florentino y su junta directiva.
+45	5	“Es una de las mejores etapas del club de toda su historia” Florentino también quiso mandar un mensaje a los críticos y lo hizo presumiendo de los títulos que ha conseguido el equipo en los últimos años.
+46	5	Sin duda el gran triunfo se ha producido en la Champions League, donde han logrado ganarla hasta cuatro veces en los últimos cinco años.
+47	5	”Modric representa perfectamente los valores del Real Madrid” También se refirió al nuevo Balón de Oro, Luka Modric.
+48	5	Pese a los problemas que hay para su renovación, Florentino reconoce que el croata es un jugador excepcional no solo en lo futbolístico sino que también representa muy bien los valores de este club.
+49	5	”En este club no existe la palabra auto complacencia” Si por algo destaca el Real Madrid es que nunca se conforma con nada, siempre quiere más.
+50	5	Gracias a eso han conseguido alcanzar el éxito en estos últimos años.
+51	5	”Estamos orgullosos de estos jugadores, que forman parte de la leyenda de este club” En última instancia, Florentino Pérez felicitó y presumió de la plantilla que tiene este Real Madrid, que “forman parte de la leyenda de este club”.
+52	5	Lo que han conseguido en tan poco tiempo no lo ha logrado nadie en la historia, sobre todo en la Liga de Campeones.
+53	6	El Barcelona no está nada contento con Ousmane Dembélé, después de que el delantero llegara dos horas tarde al entrenamiento del pasado domingo.
+54	6	Esta vez Valverde no ha decidido castigarle con dejarle fuera de la convocatoria para el siguiente partido, pero el club sí ha querido ponerle una sanción ejemplar para que esto no se vuelva a repetir.
+55	6	Según cuenta el diario AS, el Barça ha multado a su jugador con más de 100.000 euros, “incluso podría duplicarse o triplicarse”, afirman.
+56	6	Hace un mes no se presentó en el entrenamiento y nadie conseguía localizarle.
+57	6	Aquella falta le costó la convocatoria para el partido contra el Betis.
+58	6	Esta vez el Txingurri ha decidido incluirlo en la lista para enfrentarse al Tottenham debido a su gran rendimiento en el terreno de juego.
+59	6	De hecho en la rueda de prensa previa al choque de la Liga de Campeones en el Camp Nou reconoció que no sabía como explicarlo.
+60	6	Lo cierto es que el futbolista lleva dos faltas graves en un mes y eso mosquea mucho a Valverde y al club.
+61	6	De ahí que hayan querido imponerle esta sanción para que así ni Dembélé ni ningún jugador de la plantilla se les ocurra llegar tarde a un entrenamiento, y si lo hacen que sepan las consecuencias que eso va a tener.
+62	7	Maverick Viñales se ha llevado la pole para la carrera de MotoGP del GP de Valencia, y comandará la primera fila de parrilla por delante de su compatriota Àlex Rins y del italiano Andrea Dovizioso, en una sesión en la que el campeón del mundo, Marc Márquez, se fue al suelo y tuvo que recolocarse su dañado hombro izquierdo para continuar.
+63	7	De esta manera, Viñales conquista su primera del año -17 en el Mundial- y la primera desde la conseguida en el Gran Premio de Aragón en 2017.
+64	7	Todo ello partiendo desde la Q1, donde superó por sexta vez el corte en otras tantas participaciones esta temporada.
+65	7	En una sesión con condiciones climatológicas propicias, las alarmas saltaron cuando, a falta de 13 minutos para el final, Márquez se fue a la grava en la curva 4, la primera de derechas del trazado valenciano.
+66	7	El campeón del mundo se levantó entre ostensibles muestras de dolor llevándose la mano al hombro izquierdo, que pareció habérsele dislocado en la caída.
+67	7	Mientras el de Cervera se dirigía a boxes para ser atendido, el italiano Danilo Petrucci tomó el mando de la sesión.
+68	7	Ni seis minutos tardó el catalán en volver a pista, dispuesto a lograr un buen lugar en la parrilla de salida, aunque finalmente partirá quinto.
+69	7	A falta de tres minutos para el final, en la séptima de sus ocho vueltas, Viñales se aupó a lo más alto de la clasificación y partirá por primera vez este año desde la pole.
+70	7	Además, Pol Espargaró iniciará la cita sexto, mientras que su hermano Aleix saldrá octavo y Dani Pedrosa, en su último Gran Premio, noveno.
+71	7	Su compañero Valentino Rossi, con el que todavía deberá luchar por la tercera plaza del Mundial, no pasó el corte y saldrá decimosexto.
+72	7	A muy poco de luchar con los mejores se quedó Jorge Lorenzo, sólo 42 milésimas más lento que Maverick en su última carrera con la Desmosedici antes de pasar al Repsol Honda; el balear saldrá decimotercero.
+73	7	Por último, Álvaro Bautista partirá decimonoveno y Jordi Torres vigésimo tercero.
+74	8	Marc Márquez se fue al suelo en la vuelta 7 del Gran Premio de la Comunidad Valenciana.
+75	8	El campeón del mundo sufrió una caída provocada por la cantidad de agua que tenía la pista del circuito Ricardo Tormo.
+76	8	De esta forma, termina la temporada antes de lo deseado.
+77	8	El golpe sobre el asfalto que sufrió Márquez fue muy aparatoso y, en un primer momento, se llegó a temer lo peor, ya que cayó sobre su hombro izquierdo.
+78	8	Finalmente, tras ver sus gestos de rabia, parece que el hombro no ha sufrido tanto como se llegó a pensar.
+79	8	“Cada vez está peor y se sale y entra muy fácil.
+80	8	Es una lesión que arrastro desde Motegi y no he parado y la semana pasada tuve un pequeño sustillo entrenando en el gimnasio y hemos intentado llevarlo lo mejor posible durante el fin de semana”, aseguró el piloto de Repsol Honda en la jornada del sábado.
+81	9	Ronaldo Nazario fue el gran protagonista de la comparecencia de prensa organizada en Ecuador para anunciar oficialmente el preacuerdo entre el Valladolid y el Independiente Del Valle para el traspaso de Stiven Plaza al conjunto castellano.
+82	9	El brasileño habló así del futbolista, su primer fichaje personal desde que llegó al accionariado del club del José Zorrilla.
+83	9	"A Stiven Plaza lo vi hace seis meses en unos vídeos.
+84	9	Un jugador con calidad, velocidad y potencia.
+85	9	Con estas instalaciones lo puede conseguir y es cuestión de tiempo que sea campeón de Ecuador".
+86	9	Ronaldo bromeó sobre la posibilidad de, en el futuro, llevarse a más jugadores.
+87	9	"No quiero lastimar mucho más a Independiente ni tampoco tengo dinero, pero aquí hay una fábrica de talentos y los seguirán haciendo cada año.
+88	9	Ojalá pueda contar con uno cada año, ya veremos en el futuro", dijo entre risas tanto suyas como de los presentes en la conferencia de prensa.
+89	9	Además, Ronaldo alabó muchas de las cosas que ha visto en su visita a las instalaciones del club ecuatoriano:
+90	9	"Estoy muy contento de haber venido aquí y ver el trato que se le da a los jugadores.
+91	9	No sólo en la parte deportiva, que es muy completa, no muchos clubes en el mundo tienen unas instalaciones deportivas como las de aquí.
+92	9	A parte del área deportiva hay una gran área social, con la escuela dentro de las instalaciones y con el compromiso de los futbolistas de mantenerse en el colegio.
+93	9	Las cosas buenas tienen que ser copiadas e Independiente Del Valle tiene todo mi respeto porque está haciendo un trabajo espectacular.
+94	9	He visto que en los jugadores van subiendo categorías y esto les permite cambiar de portal y de edificio, es una manera de motivarles y que sueñen siempre con algo más grande.
+95	9	Es una gran idea".
+96	9	Sobre su nuevo rol en el fútbol, Ronaldo también habló en Ecuador:
+97	9	"De haber vivido toda una vida como jugador, tengo la ventaja de conocer a los futbolistas, ver lo que piensan y lo que necesitan.
+98	9	Quiero ser el presidente amigo de los jugadores y voy a intentar darle todo a ellos.
+99	9	La función de presidente no es nueva para mí porque tengo la costumbre de gestionar yo mismo mis cosas desde hace mucho tiempo.
+100	9	Cuento con un equipo espectacular a mi lado y todo son ventajas de haber vivido ya en el fútbol".
+101	9	Michelle Deller, presidente vitalicio de Independiente del Valle, sólo tuvo palabras de agradecimiento para Ronaldo:
+102	9	Extraordinario, sencillo, inteligente, coherente y comprometido Dentro de las conversaciones con Ronaldo y su grupo de apoyo en el Valladolid, siempre hablamos del compromiso de que Stiven Plaza llegue a ser uno de los mejores jugadores de Ecuador en el mundo.
+103	9	Para que vea de donde viene Stiven y cuál es el compromiso de Independiente está Ronaldo aquí".
+104	10	El un Clásico de nombres y sensaciones, el de Kyle Kuric se alzó por encima de todos para darle al Barcelona una brillante victoria.
+105	10	El proyecto culé, el enésimo en busca de la consolidación en los últimos años, parece haber encontrado a su killer en la figura del norteamericano, que en un último cuarto espectacular aniquiló a un cansado Real Madrid para provocar el júbilo en la Ciudad Condal.
+106	10	El Palau iba a disfrutar de un duelo en el que el forastero, el eterno rival, partía como firme candidato a la victoria, aunque con su gran estrella ausente.
+107	10	Sergio Llull sigue de baja por problemas en la rodilla, pero la confianza de Pablo Laso en los suyos va más allá del estado físico de su jugador franquicia, y los resultados, no cabe duda, sólo aportan credenciales a esta manera de actuar.
+108	10	El Real Madrid saltó al parqué con su versión más seria, conocedora de que el Barça trataría de apretar de inicio para buscar una primera ventaja con la despegarse en el marcador.
+109	10	El planteamiento de Pesic, con la envergadura de Claver como comodín desde el ‘3, daba sus réditos en los primeros minutos, pero el Madrid de Tavares no se amilanaba para aguantar el pulso y colocarse a rebufo, esperando el mejor momento para adelantar.
+110	10	Con Campazzo dirigiendo la orquesta con la varita de mago, los blancos rompieron la igualdad del primer cuarto con un parcial que les otorgó hasta nueve puntos de ventaja 
+111	10	Si el Facu era el director, el ejecutor respondía al nombre de Anthony Randolph, el renacido, que volvía al lugar de su inolvidable tapón a Dorsey con una versión mucho más fina que agradece su muñeca… y también su equipo.
+112	10	El Barcelona, sabedor de la importancia moral del partido, respondió con una firmeza desconocida en el día a día para los de Pesic.
+113	10	Singleton dio un paso adelante junto a un seguro como Hanga, y así devolvieron el parcial hasta recuperar el mando del partido en un visto y no visto.
+114	10	Así llegó el descanso, en el que el cruce de palabras entre Pesic y Campazzo a punto estuvo de desencadenar en tangana.
+115	10	Las defensas no eran las mejores y los ataques, con Carroll y Kuric como francotiradores, permitían una alternancia constante entre dos equipos en el tope de inspiración.
+116	10	En esas, dos jugadores tomaron las riendas sin hacer ruido.
+117	10	Taylor y Hanga, dos de esos especialistas básicos en cualquier equipo grande.
+118	10	Kuric desnivela la balanza El marcador seguía favoreciendo al Barcelona en esta vorágine de aciertos y espectáculo, e iba a explotar ya iniciado el último cuarto.
+119	10	Las pérdidas madridistas se acumulaban de manera proporcional a los puntos del hombre del partido, un Kyle Kuric que se echó a las espaldas a todo un estadio hasta lograr una ventaja prácticamente definitiva, de 14 puntos a poco más de tres minutos del final.
+120	10	Los blancos estaban cansados, y Kuric, quien sino, iba a poner la puntilla con un triple que convertía el encuentro en victoria culé, la victoria en paliza y la satisfacción de una victoria en una celebración por haber derrotado al eterno rival en uno de los mejores momentos de su historia.
+121	11	Nihad Djedovic es nueve años más joven que la estrella de Los Angeles Galaxy, pero tiene un problema serio.
+122	11	Todo el mundo quiere hacer una foto con él porque es clavado a Zlatan.
+123	11	El jugador del Bayern de Múnich, que disputa la Euroliga, se toma con humor la situación.
+124	11	El jugador del Bayern es uno de los pilares del equipo teutón con 11,4 puntos y 3 asistencias por partido en la presente temporada de Euroliga, pero tiene esa desgracia.
+125	12	El Real Madrid sufrió su tercera derrota consecutiva en una temporada que había comenzado como un tiro.
+126	12	El equipo blanco cayó frente al CSKA de Moscú 
+127	12	, sumado al cansancio final de los de Laso, terminó decantando la balanza del lado visitante.
+128	12	Con la baja de Llull y el inicio impropio del Real Madrid, Campazzo quiso ser el niño en el bautizo, la novia en la boda y el muerto en el entierro… y lo logró con una efectividad asombrosa.
+129	12	Calidad, trabajo y carisma al servicio de un Palacio de los Deportes que enloquecía con el base argentino, que en mitad de la vorágine de baloncesto de un Madrid liderado por sus 178 centímetros anotó un triple sobre la bocina desde más de 20 metros.
+130	12	El Facu sólo es pequeño en tamaño.
+131	12	El Madrid estaba de vuelta y refrendó el volteo de sensaciones con un parcial de 10-0 de salida con Ayón y Rudy como actores principales en el largometraje de Campazzo.
+132	12	Laso dio descanso al pequeño jefe, que sólo pudo descansar dos minutos por la carga de faltas de un Prepelic al que como base aún le faltan toneladas de lectura y tranquilidad.
+133	12	El esloveno tiene un gran potencial, también como ‘1’, pero debe medir sus acciones por su bien y el del equipo merengue, al menos mientras Llull esté lesionado.
+134	12	El CSKA no es un cualquiera y con Pieters y Clyburn como ejecutores, lograron volver al mandato del partido, que se había convertido en una batalla digna entre dos de los equipos más grandes del continente.
+135	12	El público y el televidente ya ni se acordaban de los Sergios, ausentes uno en cada bando por lesión, y se centraban en elogiar cada robo de Rudy, la pelea de Ayón o el duelo Campazzo – Hackett, una mezcla de UFC y trash talking llevada al parqué con el argentino como ligero vencedor, al igual que el Real Madrid, cuando sonó la bocina del descanso.
+136	12	El nerviosismo se apoderó al comienzo del tercer cuarto del Real Madrid, con Taylor como cara visible de una frustración injustificada que hizo regresar al CSKA al liderato.
+137	12	Con un Higgins estelar y De Colo sumando con triples inverosímiles, los moscovitas se colocaron como favoritos al triunfo final, manejando ventajas de diez puntos que sólo fueron maquilladas con la aparición final de Rudy, quien estaba empeñado en poner emoción al encuentro a la espera del último cuarto.
+138	12	La actuación arbitral convertía el Wizink Center en una caldera, pero los jugadores madridistas también se habían sobrecalentado por decisiones, en más de una ocasión erróneas, y que sin duda no iban a pecar de caseras.
+139	12	Higgins aprovechaba para seguir desangrando a una defensa flojita flojita de los exteriores que se emparejaban con él, y sólo Carroll, sin mucha cabeza, ponía la réplica cuando regresaban unos diez de desventaja que obligaban a apelar a la heroica para amarrar el triunfo.
+140	12	El triple estaba marcando la diferencia y lo siguió haciendo, debido a la impotencia madridista desde la larga distancia, donde sólo un acertadísimo Rudy se desmarcaba de la debacle.
+141	12	Higgins y Clyburn se sumaban para convertirse la pesadilla de un Madrid que no parecía preparado para remontar.
+142	12	El cansancio mermaba a las piezas principales en la remontada de la primera parte y los Thompkins o Taylor no mostraron la inspiración necesaria para acabar con un CSKA que, a pesar de los triples finales de Campazzo en el último minuto, se alzó con la victoria y el liderato de una Euroliga a la que aún le queda mucho en su fase regular, pero ya ha dado el primer toque al Real Madrid.
+143	13	El Real Madrid salió de su crisis de resultados con una victoria apurada 
+144	13	en su visita al Anadolu Efes en la jornada 11 de la Euroliga, donde remontaron 15 puntos en los últimos 13 minutos para ponerse por delante a falta de 17 segundos con dos tiros libres de Sergio Llull, en pleno desplome de los turcos.
+145	13	Después de tres derrotas seguidas, dos europeas y otra en Liga Endesa ante el Barça Lassa, el Madrid cortó la sangría no sin sufrir.
+146	13	De hecho el partido parecía muy perdido, sin buena defensa, con un acierto que les abandonaba por momentos y un rival dispuesto a dar un golpe en la mesa definitivo ante el campeón de Euroliga.
+147	13	(15 puntos y 8 asistencias)
+148	13	(19 puntos, 10 rebotes y 33 de valoración)
+149	13	(20 puntos, 11 rebotes y 34 de valoración)
+150	13	fue la solución a casi todo.
+151	13	El Madrid notó el miedo en el cuerpo de su rival e inició una remontada que culminó en un final apurado, en el 8-24 que endosó a los turcos en el último cuarto.
+152	13	El regreso de Llull, ausente en esas derrotas por precaución de unas molestias en su rodilla operada, se tradujo en victoria, aunque el hombre del partido fue Ayón.
+153	13	El 6 de 8 en triples mantuvo a los blancos, en un partido de ataques, más que defensas, pero los turcos dominaron con físico el juego interior, el rebote y la pintura.
+154	13	Como buen ex del Barça, Moerman se motivó bien ante los blancos, anotando todo lo que tenía.
+155	13	Le faltaba dureza en defensa al Madrid, volviendo al reclamo del inicio de temporada 
+156	13	Tras el descanso fallaron los triples blancos, mientras los de Ergin Ataman alcanzaban ritmo de crucero con Larkin y Micic 
+157	13	Con 15 abajo y 13 minutos, el Madrid apretó los dientes y al Efes le tembló todo.
+158	13	Desapareció Micic y el Madrid fue recortando hasta ponerse a tiro en un final de detalles.
+159	13	También fallaron en el momento clave Dunston y Pleiss para los locales, mientras Llull ponía por delante a los blancos.
+160	13	En 17 segundos que quedaban no cambió el colapso de un Efes al que se le hizo grande el Madrid.
+161	14	Esta es la plantilla de 23 futbolistas con la que el Real Madrid disputará el Mundial de Clubes 2018, que arranca el próximo 12 de diciembre en los Emiratos Árabes Unidos, aunque el equipo blanco empezará su participación directamente en la semifinal del día 19.
+162	14	Casemiro y Nacho Fernández, que cayeron lesionados en el duelo que el Real Madrid jugó ante el Celta en Balaídos el pasado 11 de noviembre, y el brasileño Vinicius Junior, entraron en la lista oficial de 23 jugadores que proporcionó a la FIFA el equipo madridista para el Mundial de Clubes 2018 que se disputará entre el 12 y el 22 de diciembre en los Emiratos Árabes Unidos.
+163	14	Sin embargo, el defensa del Real Madrid ha acortado los plazos de su recuperación y ha podido entrar en la lista para el Mundial de Clubes 2018.
+164	14	El brasileño, por su evolución e inclusión en la convocatoria, también parece acortar sus plazos para estar a disposición de Solari en el Mundial de Clubes 2018.
+165	14	Además, Vinicius Junior, que empezó la temporada alternando partidos con el Castilla y con el primer equipo, definitivamente se ha asentado con la primera plantilla y viajará a los Emiratos Árabes Unidos para disputar el Mundial de Clubes 2018.
+166	14	Vallejo es el descarte Quien no estará entre los elegidos para el Mundial de Clubes 2018 por el técnico Santiago Hernán Solari es Jesús Vallejo.
+167	14	La plantilla completa de 23 jugadores que se lleva el Real Madrid para el Mundial de Clubes 2018 es:
+168	15	Movistar dejará de emitir el Mundial de MotoGP en 2019 y DAZN tomará el relevo.
+169	15	La empresa británica, considerada como la Netflix de los deportes, ha llegado a un acuerdo con el grupo Dorna para retransmitir las motos durante los próximos cuatro años 
+170	15	De hecho es el primer servicio de streaming en vivo y OnDemand a nivel mundial dedicado única y exclusivamente al deporte.
+171	15	A partir de ahora para ver el Mundial de MotoGP no se necesitará tener instalado un aparato para poder visualizar todos los canales que ofrece, sino que valdrá con instalarse la aplicación de DAZN en la SmartTV, smartphones, tablets, consolas y ordenadores.
+172	15	Para poder ver todo el contenido que ofrece DAZN habrá que pagar una tarifa, que en países como Alemania o Italia es de 9,99 euros al mes y no requerirá de un contrato a largo plazo.
+173	15	El acuerdo entre ambas partes incluye además la retransmisión del Mundial de Superbike y el FIM CEV Repsol, campeonatos gestionados por Dorna.
+174	15	Así pues Manel Arroyo, Managing Director de Dorna Sports, expresaba su agradecimiento y valoraba muy positivamente el acuerdo al que han llegado con DAZN para poder emitir el Mundial de MotoGP a través de la plataforma.
+175	15	“Estamos realmente felices de comenzar este nuevo capítulo en la historia de MotoGP.
+176	15	Extendemos nuestro agradecimiento a Movistar, con quien experimentamos por primera vez con las plataformas de TV de pago en España, y después de una asociación exitosa, MotoGP y Dorna comienzan una nueva era con DAZN.
+177	15	La combinación de una transmisión en streaming líder en todo el mundo, contenido OnDemand y una cobertura en abierto reconceptualizará la manera en que nuestra audiencia española podrá acceder y disfrutar de MotoGP.
+178	15	Estamos seguros de que DAZN, con su increíble visión y experiencia, será el socio perfecto para MotoGP en el futuro”, comentó Arroyo.
+179	15	DAZN es una plataforma independiente de streaming de deportes nacida en 2016, con sede en Reino Unido, y que opera en Japón, Alemania, Austria, Suiza, Canadá, Italia, Estados Unidos y, a partir del año que viene en España.
+180	15	Además sus funciones permiten escoger una competición y luego un equipo para ver todo lo que haya sobre ese equipo.
+181	15	El grupo británico ha comprado los derechos para emitir eventos en Italia como la Serie A, la Liga Santander, Ligue 1 y Ligue 2, Copa Libertadores, Copa Sudamericana, Africa Cup of Nations, FA Cup, EFL Cup, NHL, MLB, Heineken Champions Cup, Guiness Pro14, UFC, Matchroom Boxing, Showtime Boxing, Bellator MMA, PDC Darts y el World Rally Championship 
+182	15	Mientras que en Alemania emiten la Premier League, la Liga Santander, Serie A, Bundesliga, Ligue 1, Europa League, EFL Cup, Matchroom Boxing, Showtime Boxing, o Bellator MMA.
+183	15	Mientras que, desde 2019, en España empezará a emitir la Premier League y el Mundial de MotoGP.
+184	16	Doncic acabó el encuentro con 13 puntos 
+185	16	, seis rebotes, dos asistencias, dos robos y un tapón en 25 minutos, unas estadísticas algo escasas para lo que viene promediando el esloveno, que compensó una actuación normal con una acción de obligada presencia entre las mejores jugadas de la noche NBA.
+186	17	Fernando Alonso sigue con sus ambiciosos planes después de retirarse de la Fórmula 1.
+187	17	El piloto, que buscará el año que viene la triple corona en las 500 millas de Indianápolis, bromeó en su última rueda de prensa en Abu Dabi sobre su posible retorno algún día al Gran Circo.
+188	17	“Adoro la F1, pero no sé si volveré como piloto o jefe de la FIA”, dijo en un tono de broma.
+189	17	Fernando Alonso tiene ambiciosos planes en China y la guinda para su proyecto consiste en promocionar al primer piloto de Fórmula 1 del país.
+190	17	El asturiano, a través de su academia ‘Alonso New Energy Karting Center and School’, anunció la creación de una macroestructura para despertar la fiebre por el automovilismo en el gigante asiático.
+191	17	“Estaremos en China en un proyecto a largo plazo para encontrar un futuro campeón de Fórmula 1 chino.
+192	17	En los cinco próximos años, construiremos 40 circuitos de karts para dar la oportunidad a los mejores talentos del país de alcanzar sus sueños”, dijo el español en su cuenta de Twitter en redes sociales.
+193	17	El proyecto, como pudo comprobar el propio Alonso en las 6 horas de Shanghai, va viento en popa con la construcción de tres circuitos en apenas cuatro meses y la proyección de que el año próximo ya estén una decena en marcha creándose un campeonato nacional chino con el asturiano como principal reclamo.
+194	17	Fernando Alonso, como si fuese Rocky Balboa con el hijo de Apollo Creed, quiere apadrinar al próximo campeón chino de Fórmula 1.
+195	17	Por el momento, el gigante asiático no ha conseguido que nadie debute en el Gran Circo, aunque el potencial económico y empresarial es patente.
+196	17	Desde 2004, China es una cita fija en el calendario mundial y el bicampeón del mundo ha visto un nuevo lugar donde dejar su legado.
+197	18	Fernando Alonso recibió la despedida que merece en su última carrera en la Fórmula 1.
+198	18	El piloto asturiano dio una vuelta de honor al término del Gran Premio de Abu Dhabi, acompañado por las dos grandes referencias del paddock en los últimos años, Sebastian Vettel y Lewis Hamilton, que no quisieron dejar solo a Fernando en sus últimos giros en el Gran Circo.
+199	18	“Alonso es una leyenda y ha sido un privilegio correr en la misma época que él.
+200	18	El deporte le va a echar de menos”, afirmó Hamilton, cinco veces campeón del mundo y compañero de Alonso en McLaren en 2007.
+201	18	Alonso acabó en undécima posición la carrera, un lugar que no se corresponde con su calidad como piloto y que es fiel reflejo de lo que le ha llevado, con 37 años, va abandonar el campeonato del mundo de Fórmula 1, en el que ha permanecido durante casi dos décadas, dejando grandes momentos y abriendo un nuevo mundo para el público español, ahora ya aficionado a los monoplazas gracias a Fernando.
+202	19	La última carrera de Fernando Alonso en la Fórmula 1 tuvo un accidente de esos que estremecen a cualquiera.
+203	19	Nico Hulkenberg tuvo que abandonar la carrera en la primera vuelta después de que su Renault se chocara con Grosjean, diese varias vueltas de campana y se quedase volcado en la chicane que hay entre las dos rectas del segundo sector.
+204	19	Tras unos primeros momentos de angustia, en los que el monoplaza llegó a tener fuego, todo quedó en un susto.
+205	19	Los comisarios atendieron inmediatamente a un piloto alemán que no sufrió daños graves.
+206	20	al sudafricano Kevin Anderson para jugar por séptima vez el partido por el título en las Finales ATP, el torneo que reúne a los ocho mejores de la temporada, donde buscará por sexta vez la condición de Maestro, ante el alemán Alexander Zverev.
+207	20	El número uno del mundo llegó a la final sin ceder un set.
+208	20	El de Belgrado, que terminará por quinta vez en su carrera como número uno del mundo, comenzó poniendo las cosas difíciles a su rival, con un ‘break’ en el primer juego.
+209	20	No cedió ocasión de rotura con su saque un Nole que se apuntó la primera manga con otro break más en el séptimo juego.
+210	20	Anderson volvió a entrar mal en la pista del O2 de Londres, y un nuevo break de inicio le complicó también la segunda manga.
+211	20	La racha de Djokovic en Londres cogió de nuevo carrerilla, intratable hasta firmar su pase a la final de nuevo por la vía rápida.
+212	20	El campeón de 14 Grand Slam, ganador este año de cuatro títulos entre ellos los ‘grandes’ de Wimbledon y US Open, se medirá a un Zverev que eliminó a Federer, y contra el que maneja un 2-1 en duelos directos, el último esta misma semana en la fase inicial de estas Finales ATP y la otra victoria del serbio hace poco más en semifinales del título que ganó en Shanghai.
+213	21	Los tenistas italianos Daniele Bracciali y Potito Starace han sido sancionados este miércoles de por vida y por diez años, respectivamente, tras haber sido declarado culpables de amañar partidos del circuito, reveló la Unidad de Integridad del Tenis 
+214	21	Bracciali, de 40 años, fue declarado culpable por una Audiencia Independiente Anticorrupción de delitos de amaño de partidos en el Conde de Godó de Barcelona del año 2011.
+215	21	Además, su compatriota Potito Starace también recibió una sanción de 10 años de cualquier participación futura en un torneo de tenis, y una multa de 100.000 dólares 
+216	21	culpable de cometer errores de amaño de partidos relacionados con el torneo ATP 500 World Tour en Barcelona en abril de 2011″, dijo la TIU.
+217	21	“También se descubrió que facilitó las apuestas relacionadas con el partido del Barcelona”.
+218	21	Como jugador de individuales, alcanzó el número 49 en 2006.
+219	22	“Tenemos metas más próximas pero sé que le gustaría mucho estar de nuevo en una cita olímpica”, indicó en una entrevista para El Diario Vasco.
+220	22	En la vida uno tiene que dar pasos y llegó el momento de irme”, indicó.
+221	22	Por otra parte, desmintió a aquellos que afirman que hubo un momento de confrontación entre ellos.
+222	22	“No hubo una sola vez en la que Rafael me haya faltado al respeto.
+223	22	Rafael no ha tenido nunca en la vida una falta de respeto hacia mi persona ni hacia cualquiera de los integrantes del equipo.
+224	22	Por último, Toni Nadal valoró el año del actual número 2 del mundo.
+225	22	“Ha sido un año muy bueno con la pega de las lesiones, que le hicieron retirarse de dos Grand Slam.
+226	22	Hubiera podido ganar Wimbledon de nuevo”, zanjó.
+227	23	El equipo de Croacia ha conquistado este domingo su segundo título de la Copa Davis después de que Marin Cilic se adjudicase este domingo el cuarto y definitivo punto de la final ante Francia frente a Lucas Pouille 
+228	23	, un éxito que les permite olvidar la decepción de hace dos años en Zagreb.
+229	23	Aquel 27 de noviembre de 2016, Cilic cedía, después de adelantarse dos sets a cero, el cuarto punto de la última eliminatoria frente Argentina ante Juan Martín del Potro, después de haber dado los otros dos puntos a un combinado balcánico que dominaba por 2-1 tras sus victorias en el primer individual del viernes y en el dobles.
+230	23	Dos años después, el de Medugorje, número siete del mundo, pudo resarcirse en el Estadio Pierre Mauroy de Lille y no dio opción a un Pouille, el jugador con mejor ranking de los franceses y que no jugó el viernes, pero que fue el elegido en el último momento por Yannick Noah para abrir la jornada de domingo, más emocionante por la victoria del dobles, en lugar de Jeremy Chardy.
+231	23	Aún así, Cilic tuvo que emplearse a fondo en un primer set en el que desperdició las dos bolas de rotura de las que dispuso.
+232	23	La igualdad obligó a la disputa del ‘tie-break’, donde el balcánico se mostró más solvente para adelantarse en la contienda.
+233	23	El número uno croata fue ganando confianza y poco a poco imprimió de mayor ritmo al partido, entre las muestras de ánimo de la presidenta de su país, Kolinda Grabar-Kitarovic, a la que en julio le tocó presenciar la derrota de su selección, precisamente ante Francia, en el Mundial de Rusia.
+234	23	Después de volver a fallar en cuatro pelotas de quiebre y de set, selló su victoria en el parcial en el noveno juego.
+235	23	En el noveno, con Cilic al resto, Pouille salvó dos bolas de partido, pero el líder croata, con un globo, recuperó, 13 años después, la ‘Ensaladera’ para su país.
+236	23	De esta manera, Croacia conquista su segundo trofeo de la competición, después del logrado en 2005 por el equipo formado por, entre otros, Ivan Ljubicic y Mario Ancic.
+237	23	Mientras, Francia no ha podido revalidar el título conseguido el año pasado y vuelve a caer en Lille en una final, como en 2014 contra la Suiza de Roger Federer.
+238	23	Con la 107º edición, se despide el antiguo formato de la Copa Davis, ya que a partir de 2019 se disputará durante una única semana de noviembre en Madrid, donde se reunirán las 18 mejores naciones del tenis mundial.
+239	24	Novak Djokovic parece empeñado en que los grandes jugadores de la ATP no participen en la nueva Copa Davis de Kosmos y Gerard Piqué.
+240	24	El tenista serbio habría mandado un correo electrónico a varios jugadores para iniciar un boicot contra la norma de la ITF por la cual se obliga a participar una eliminatoria el año de los Juegos Olímpicos o el previo si se quiere participar en la cita.
+241	24	Frederick Rosengren, entrenador del británico Kyle Edmund confesó que su pupilo había recibido dicho email para frenar su participación con Gran Bretaña, uno de los dos países invitados al evento.
+242	24	Rosengren, técnico de Kyle Edmund, fue muy duro con el nuevo formato a la vez que desvelaba las intenciones de Djokovic de boicotear el nuevo formato del torneo impulsado por Kosmos.
+243	24	“No he escuchado a un solo jugador hablando bien de la nueva Copa Davis.
+244	24	Que tengan buena suerte intentando conseguir a los mejores jugadores.
+245	24	Kyle recibió un mensaje la semana pasada de Djokovic, no sé si tenía algo que ver con la Copa Davis, pero lo que quiere es boicotear la regla que estás obligado a jugar por tu país el año antes de los Juegos o el mismo año”, afirmó.
+246	24	Djokovic es, además de número uno del ranking, presidente del comité de jugadores de la ATP, un cargo en el que se está haciendo fuerte y que también utiliza en su negativa inicial a participar en la nueva Copa Davis.
+247	24	Otros tenistas que forman parte del Top 10, caso de Roger Federer o Alexander Zverev, también han expresado su desacuerdo con las fechas de la nueva Copa Davis y podrían no participar.
+248	25	El equipo francés de Copa Davis, recientemente derrotado en la final de la edición de 2018, ha criticado duramente el nuevo formato de competición impulsado por Gerard Piqué y su empresa Kosmos y que entrará en vigor en 2019 a través de dos de sus integrantes, el capitán Yannick Noah y el tenista especialista en dobles Pierre-Hugues Herbert.
+249	25	Después de la derrota en la final disputada en Lille frente a Croacia, Yannick Noah se despachó a gusto con el nuevo formato que entra en vigor la próxima temporada y que acaba con la Davis tal y como la conocíamos.
+250	25	“Espero que no lo llamen Copa Davis porque estarían mintiendo.
+251	25	Jugar al mejor de tres sets no es Copa Davis.
+252	25	Jugar en cualquier sitio no es Copa Davis.
+253	25	La postura de uno de sus jugadores, Pierre-Hugues Herbert, fue todavía más extremista, deseando que el nuevo formato de Kosmos no llegue a buen puerto.
+254	25	“Esperemos que el nuevo formato no funcione y podamos volver al antiguo.
+255	25	Cuando salimos del estadio nos tomamos una foto para recordar este momento, no sabemos si podrá suceder de nuevo”.
+256	25	Estas críticas se suman a la posible negativa de tres de los grandes tenistas del circuito, Novak Djokovic, Roger Federer y Alexander Zverev, en la primera edición de esta nueva Copa Davis.
+257	25	El formato cuenta con ideas refrescantes para los jugadores, pero para algunos no es suficiente si para ello hay que incumplir la tradición.
+258	26	Rafael Nadal ha tenido un final de temporada lejos del deseado, pero una vez finalizado 2018 para el mundo del tenis, el manacorense se ha marchado a Bahamas para disfrutar de unas merecidas vacaciones acompañado de sus seres queridos.
+259	26	Rafa compartió fotos junto a sus padres y su hermana en las aguas cristalinas de las Islas, pero sorprendió la ausencia, al menos en las instantáneas, de Xisca Perelló, pareja del actual número dos del ranking ATP desde hace una década.
+260	27	El periodista independentista Jordi Barbeta, ex jefe de política de La Vanguardia y ex corresponsal de este mismo medio en Washington, ha utilizado la red social Twitter para amenazar al campeón del mundo de MotoGP Marc Márquez a raíz de la polémica por su salida al balcón del ayuntamiento de Cervera 
+261	27	este sábado, durante la celebración de su séptimo título mundial.
+262	27	Barbeta, que ahora hace de cronista parlamentario en el ElNacional.
+263	27	cat, uno de los medios más subvencionados por el Govern y de línea independentista, le espeta al campeón del mundo que “te necesitan más los sponsors a ti que tú a los sponsors” y le recuerda que “eres un campeón y un referente para tu pueblo que mayoritariamente se ha pronunciado por la libertad y la democracia”.
+264	27	Barbeta, muy próximo al ex presidente Carles Puigdemont y uno de los nombres que más suenan para dirigir la radio pública catalana, pide a Márquez que “no tengas miedo” y “actúa como un campeón” antes de recordarle que “si nos defraudas, tus éxitos ya no serán nuestros”.
+265	27	Su pronunciamiento, con más de 1.900 retuits y 5.000 favoritos en esta red social, no es el único acoso que ha recibido el piloto durante estas últimas horas, tras destapar OKDIARIO que el ayuntamiento de este municipio leridano se había negado a retirar la pancarta de apoyo a los presos del balcón donde debía salir a saludar el piloto, a petición del Fan Club de Márquez y para no molestar a ningún aficionado ni patrocinadores.
+266	27	A Márquez, que hoy celebra su nuevo título en su ciudad, los independentistas le han llegado a acusar junto a su familia de “facha” y de haber retirado simbología independentista de las calles del pueblo durante esta pasada noche.
+267	28	Sete Gibernau tiene previsto volver a subirse a una moto de competición la próxima temporada.
+268	28	El piloto catalán, retirado desde 2009, participará en la nueva Copa del Mundo MotoE, una categoría de motos eléctricas que disputará su primer campeonato reconocido por la Federación Internacional de Motociclismo.
+269	28	Durante el Gran Premio de la Comunidad Valenciana, que pondrá el colofón a la temporada de MotoGP, está previsto el anuncio del fichaje de Sete por el equipo que Sito Pons tendrá en este campeonato.
+270	28	La mayoría de equipos partirán de los actuales privados de MotoGP, así como algunos procedentes de Moto2 y Moto3.
+271	28	Pero la vida siempre te guarda sorpresas, después de diez años retirado y sin competir, aquí estoy.
+272	28	Especialmente me hace una gran ilusión vivir y pilotar esta nueva generación de motos eléctricas y poner mi granito de arena a su desarrollo, además de poder decir que habré pilotado las tres generaciones de motos que han pasado por el Campeonato del Mundo de motociclismo”, dijo Sete Gibernau sobre su nueva aventura.
+273	29	El Gran Premio de Valencia de Moto GP pondrá fin a la temporada de la competición en el Circuito Ricardo Tormo de Cheste.
+274	29	Tras alzarse con el título de campeón el pasado mes de octubre, Marc Márquez sigue empeñado en añadir victorias en su casillero como ya hizo hace dos de semanas en Sepang por delante de Rins y Zarco.
+275	29	Pese a que el título está ya bajo el brazo de Márquez y el subcampeonato en la de Andrea Dovizioso, aún queda por decidir de quién será el tercer escalón del Mundial.
+276	29	Será una pelea a muerte entre los dos pilotos de Yamaha tras la caída de Valentino Rossi hace dos semanas.
+277	29	le pondrán emoción a la última fecha de la temporada.
+278	29	Los primeros serán los de Moto 3, desde las 12:35 buscarán la pole; mientras que los de Moto 2 lo harán desde las 15:05.
+279	29	Desde las 11:00 rugirán los tubos de escape de los chicos de Moto 3; una hora y 20 minutos más tarde, a las 12:20, será el turno de Moto 2; y a partir de las 14:00 saldrá las estrellas del circuito de motociclismo con la Moto GP.
+##END_CONTEXTS##
+##TERMS##
+#ID_TERM;TERM;WORD N;FREQUENCY;SELECTION;CONTEXTS_LIST;SELECTED_CONTEXTS_LIST
+0	mundo	1	26	0	207,208,224,230,122,177,196,200,201,0,30,33,35,36,42,258,260,263,268,272,75,91,102,62,66	_
+1	mientras	1	10	0	237,156,159,133,182,183,17,278,67,70	_
+2	final	1	16	0	248,249,207,211,227,237,137,151,158,119,127,31,258,69,65	_
+3	años	1	18	0	213,214,215,228,230,235,121,169,192,198,201,45,46,50,27,26,271,105	_
+4	victoria	1	12	0	212,230,234,142,143,152,120,104,106,9	_
+5	club	1	17	0	13,40,41,42,44,45,49,48,51,54,265,82,89,60	_
+6	partido	1	16	0	217,233,235,146,153,152,119,124,134,206,54,57,17,112,113,9	_
+7	temporada	1	16	0	249,155,124,125,206,165,3,21,258,267,269,273,277,76,64,5	_
+8	puntos	1	12	0	229,137,144,147,148,149,119,124,184,16,110	_
+9	hace	1	11	0	212,228,56,27,259,262,272,274,276,83,99	_
+10	llegó	1	10	0	207,220,204,1,35,37,78,77,82,114	_
+11	Real	1	27	0	12,136,142,143,161,162,163,125,128,135,167,1,3,39,41,42,43,44,47,49,51,15,17,105,108,5	_
+12	Madrid	1	42	0	12,238,136,142,141,143,145,151,155,158,157,160,161,162,163,125,128,129,131,135,167,1,3,13,39,41,42,43,47,49,51,15,16,17,23,26,105,108,109,8,5	_
+13	Clubes	1	10	0	11,161,162,163,164,166,165,167,13,91	_
+14	jugadores	1	17	0	244,246,253,239,240,138,162,116,167,1,51,257,86,90,94,98,102	_
+15	año	1	18	0	245,212,214,224,225,237,240,179,187,193,19,22,24,69,87,88,63	_
+16	jugador	1	12	0	243,218,230,123,124,2,48,55,84,97,107,61	_
+17	sólo	1	13	0	10,137,139,140,130,132,2,28,72,91,101,107,4	_
+18	minutos	1	13	0	10,144,157,119,132,185,2,279,68,69,109,65,9	_
+19	Liga	1	10	0	145,181,182,2,38,52,15,16,59,8	_
+20	equipo	1	25	0	248,223,227,236,161,162,117,124,126,133,165,180,3,13,45,269,100,111,8,9,4,6,7	_
+21	mejores	1	11	0	244,238,115,120,206,185,192,45,72,102,5	_
+22	momento	1	11	0	11,255,220,221,230,159,195,41,77,109,5	_
+23	Copa	1	16	0	243,245,246,247,248,250,251,252,256,227,238,239,181,268,7	_
+24	nuevo	1	19	0	242,248,249,254,253,255,210,211,219,226,175,196,201,47,266,96,8	_
+25	Barcelona	1	12	0	12,214,216,217,118,34,53,15,16,18,104,112	_
+26	primera	1	14	0	256,209,142,165,176,203,32,29,69,108,62,63,65	_
+27	Mundial	1	27	0	11,233,238,161,162,163,164,166,165,167,168,170,171,173,174,183,196,13,38,43,18,20,261,275,71,63	_
+28	último	1	11	0	212,224,230,137,142,151,118,13,70,73,105	_
+29	vez	1	13	0	14,242,208,222,206,176,54,58,258,69,79,64	_
+30	Márquez	1	10	0	260,264,265,266,274,275,74,77,62,65	_
+31	gran	1	19	0	241,133,187,195,198,46,58,25,269,272,273,70,74,81,92,95,106,63	_
+32	primer	1	12	0	208,229,231,142,165,170,189,34,268,77,82,110	_
+33	campeón	1	15	0	212,146,191,194,200,38,260,263,264,274,75,85,62,66	_
+34	donde	1	10	0	232,238,140,144,206,196,46,265,103,64	_
+35	todo	1	14	0	150,154,157,119,122,204,172,177,180,52,93,100,98,64	_
+36	MotoGP	1	12	0	168,171,174,176,175,177,178,183,260,269,270,62	_
+37	nueva	1	10	0	243,246,247,256,239,176,268,272,99	_
+38	piloto	1	10	0	205,187,188,189,198,201,265,268,80	_
+39	Alonso	1	10	0	186,189,190,193,194,197,199,200,201,202	_
+40	Davis	1	13	0	243,245,246,247,248,249,250,251,252,256,227,238,239	_
+41	Real Madrid	2	26	0	12,136,142,143,161,162,163,125,128,135,167,1,3,39,41,42,43,47,49,51,15,17,105,108,5	_
+42	Gran Premio	2	6	0	198,269,273,70,74,63	_
+43	Fernando Alonso	2	5	0	186,189,194,197,202	_
+44	Copa Davis	2	12	0	243,245,246,247,248,250,251,252,256,227,238,239	_
+45	nueva Copa	2	6	0	243,246,247,256,239,268	_
+46	nuevo formato	2	6	0	242,248,249,254,253	_
+47	Mundial de Clubes	3	9	0	11,161,162,163,164,166,165,167,13	_
+48	campeón del mundo	3	6	0	200,260,263,75,62,66	_
+49	nueva Copa Davis	3	5	0	243,246,247,256,239	_
+##END_TERMS##
